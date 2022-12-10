@@ -1,0 +1,1460 @@
+,Unnamed: 0,id,text,Pasien,Usia pasien,Penyakit,Gejala,Tindakan,Outcome,Pertanyaan,Pembuka,Penyebab,Prakondisi,Objek,Penutup,Waktu
+0,0,821-1-0,p,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,816-1-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+2,2,815-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,3,814-1-0,Hindari minum alkohol.,0,0,0,0,1,0,0,0,0,0,1,0,0
+4,4,813-1-0,latihan rutin,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,5,812-1-0,menjaga asupan nutrisi,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,6,811-1-0,berinteraksi dengan orang-orang,0,0,0,0,1,0,0,0,0,0,0,0,0
+7,7,810-1-0,mengendalikan stres,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,8,809-1-0,menulis kerja menulis catatan smartphone kerja,0,0,0,0,1,1,0,0,0,0,0,0,0
+9,9,808-1-0,"Fokus, selesaikan, selesaikan.",0,0,0,0,1,0,0,0,0,0,0,0,0
+10,10,807-1-0,Jangan tidur larut malam.,0,0,0,0,1,0,0,0,0,0,0,0,0
+11,11,806-1-0,Kegiatan fisik ringan yang melelahkan,0,0,0,0,1,0,0,0,0,0,0,0,0
+12,12,805-1-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,13,804-1-0,kondisi berkonsultasi dengan dokter,0,0,0,0,1,0,0,0,0,0,0,0,0
+14,14,804-1-91,berkonsultasi dengan psikiater langsung tatap muka berkonsultasi dengan fitur obrolan dokter,0,0,0,0,1,0,0,0,0,0,0,0,0
+15,15,804-1-251,Dokter mengevaluasi penanganan yang sesuai,0,0,0,0,1,0,0,0,0,0,0,0,0
+16,16,803-1-0,Minum alkohol.,0,0,0,0,0,0,0,0,1,0,1,0,0
+17,17,800-1-0,Konsumsi vitamin b,0,0,0,0,0,0,0,0,1,0,1,0,0
+18,18,798-1-0,Gangguan emosional.,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,19,802-1-0,konsumsi narkoba,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,20,801-1-0,kurang tidur,0,0,0,0,0,0,0,0,1,0,0,0,0
+21,21,799-1-0,"Gangguan kesehatan, gangguan hormon tiroid, riwayat cedera kepala.",0,0,1,1,0,0,0,0,0,0,0,0,0
+22,22,795-1-0,pembatasan informasi evaluasi karena kondisi,0,0,0,0,1,0,0,0,0,0,0,0,0
+23,23,795-1-132,mendiagnosa riwayat medis dari pemeriksaan fisik dukungan,0,0,0,0,1,0,0,0,0,0,0,0,0
+24,24,795-1-272,Kondisi yang tidak fokus akibat kondisi,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,25,794-1-0,Gejala adhd utama dari hidangan adhd sulit untuk fokus pada perilaku hiperaktif dan impulsif,0,0,1,1,0,0,0,0,0,0,0,0,0
+26,26,794-1-125,Dimana keluhan Adhd anak laki-laki menjadi lebih buruk.,0,0,1,0,0,0,0,0,0,0,0,0,0
+27,27,794-1-179,"Keluhannya muncul, fokusnya terganggu, perhatikan detail cerobohnya.",0,0,0,1,0,0,0,0,0,0,0,0,0
+28,28,794-1-323,dhddeddded dari adhd hiperaktif menurun seiring bertambahnya usia,0,0,1,0,0,1,0,0,0,0,0,0,0
+29,29,794-1-495,gejala - gejala yang sulit untuk difokuskan cenderung memburuk seraya mereka bertambah tua.,0,0,0,1,0,1,0,0,0,0,0,0,0
+30,30,793-1-0,melupakan kesulitan fokus yang dialami orang-orang,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,31,793-1-80,keluhan mengganggu kegiatan alami,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,32,793-1-155,keluhan aktivitas disruptif dievaluasi,0,0,0,0,1,1,0,0,0,1,0,0,0
+33,33,793-1-278,Melihat keluhan dipahami kekhawatiran defisit gangguan hiperaktif adhd gangguan perkembangan yang salah bagi remaja dewasa,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,34,793-1-534,gejala adhd anak muncul usia,0,0,1,0,0,0,0,0,0,0,0,0,0
+35,35,792-1-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+36,36,791-1-0,Halo bsdalia,0,0,0,0,0,0,0,1,0,0,0,0,0
+37,37,790-1-0,"Selamat siang, Dok.",0,0,0,0,0,0,0,1,0,0,0,0,0
+38,38,790-1-18,tua,0,1,0,0,0,0,0,0,0,0,0,0,0
+39,39,790-1-41,Sulit untuk fokus. lamunan lupa segala sesuatu yang lain.,0,0,0,1,0,0,0,0,0,0,0,0,0
+40,40,790-1-107,"Ubah kebiasaannya, itu berhasil, orang tua lelah.",0,0,0,0,0,1,0,0,0,0,0,0,0
+41,41,790-1-233,Pelatihan konsultan psikolog berjalan dengan baik di akhir.,0,0,0,0,1,1,0,0,0,0,0,0,0
+42,42,790-1-375,fokus jangan lupa dapatkan pekerjaan yang bisa diperbaiki,0,0,0,0,0,1,0,0,0,1,0,0,0
+43,43,790-1-541,energi malas menyedihkan,0,0,0,1,0,0,0,0,0,0,0,0,0
+44,44,790-1-643,pikiran off berpikir jelas kesalahan dari kesalahan sepele,0,0,0,1,0,0,0,0,0,0,0,0,0
+45,45,790-1-764,Sulit mencerna informasi rinci,0,0,0,1,0,0,0,0,0,0,0,0,0
+46,46,790-1-819,fokus hiperaktif diam hiperaktif,0,0,0,1,0,0,0,0,0,0,0,0,0
+47,47,790-1-959,"Ya, Dok.",0,0,0,0,0,0,1,0,0,0,0,0,0
+48,48,790-1-990,"Tolong, jawabannya membingungkan.",0,0,0,0,0,0,0,0,0,0,0,0,0
+49,49,476-1-0,Informasi mungkin berguna.,0,0,0,0,0,0,0,0,0,0,0,1,0
+50,50,476-1-62,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+51,51,475-1-0,tanda-tanda autisme anak,0,0,1,0,0,0,0,0,0,0,0,0,0
+52,52,475-1-95,Gejala - gejalanya mirip gangguan adhd disorder worries asperger akibat kekerasan,0,0,1,0,0,0,0,0,0,0,0,0,0
+53,53,475-1-277,Pastikan dokter anak itu berkonsultasi dengan perawatan diagnosis bunga anak yang sedang bertumbuh,0,0,0,0,1,1,0,0,0,0,0,0,0
+54,54,474-1-0,Autisme atau gangguan spektrum autitis gangguan pengembangan asd menyebabkan kemampuan komunikasi anak-anak terganggu,0,0,1,0,0,1,0,0,0,0,0,0,0
+55,55,474-1-150,tanda-tanda autisme anak,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,56,474-1-212,Gejala berbagai kesulitan dalam komunikasi sulit untuk berkomunikasi memahami titik kemarahan berulang.,0,0,0,1,0,0,0,0,0,0,0,0,0
+57,57,473-1-0,"Pertanyaannya adalah, Dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+58,58,472-1-0,"Halo, Haryati.",0,0,0,0,0,0,0,1,0,0,0,0,0
+59,59,471-1-0,"Dok seorang anak adalah dari usia kemarahan, menyakiti anggota tubuhnya dada bayi mengalami kesulitan tidur pagi ini, menulis garis miring",1,1,1,1,0,1,1,0,0,0,0,0,1
+60,60,470-1-0,memahami tingkat keparahan dari berat sekolah khusus.,0,0,0,0,1,0,0,0,0,1,0,1,0
+61,61,469-1-0,terapi,0,0,0,0,1,0,0,0,0,0,0,0,0
+62,62,468-1-0,contoh menjalankan hari haari,0,0,0,0,1,0,0,0,0,0,0,0,0
+63,63,467-1-0,mempertimbangkan aktivitas sehari-hari,0,0,0,0,1,0,0,0,0,0,0,0,0
+64,64,466-1-0,menghabiskan anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+65,65,465-1-0,kesabaran penderita adhd mendukung mengoptimalkan perkembangan anak,0,0,1,0,1,1,0,0,0,0,0,0,0
+66,66,465-1-119,Putra Adhd.,0,0,1,0,0,0,0,0,0,0,0,0,0
+67,67,464-1-0,Autisme dari kelainan neurodevelopment menyebabkan gangguan interaksi,0,0,1,0,0,1,0,0,0,0,0,0,0
+68,68,464-1-130,autisme disebabkan,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,69,464-1-184,adhd defisit defisit hiperaktif gangguan perilaku menyebabkan tindakan impulsif perhatian hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+70,70,464-1-335,interferensi yang berbeda dipahami,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,71,464-1-378,"Anak itu suka bicara, fokus berhenti.",0,0,1,1,0,0,0,0,0,0,0,0,0
+72,72,463-1-0,"Halo, terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+73,73,463-1-51,dari Bukankah itu?,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,74,462-1-0,Adhd dari autistik cacat mental ya doc,0,0,1,0,0,0,1,0,0,0,0,0,0
+75,75,462-1-57,Adhd sekolah khusus adhd adhd,0,0,1,0,0,0,1,0,0,0,0,0,0
+76,76,461-1-0,Mudah-mudahan informasi akan membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+77,77,461-1-37,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+78,78,460-1-0,berkonsultasilah dengan diagnosis psikiater.,0,0,0,0,1,1,0,0,0,0,0,0,0
+79,79,460-1-95,"Kecemasan terlibat dalam konflik, Kekesalan yang disebabkan oleh gangguan kecemasan.",0,0,1,1,0,0,0,0,0,0,0,0,0
+80,80,460-1-247,konsultasi singkat mengatasi dampak sosialisasi pekerjaan,0,0,0,0,0,1,0,0,0,1,0,0,0
+81,81,459-1-0,Adhd tumbuh dewasa,0,0,1,0,0,0,0,0,0,0,0,0,0
+82,82,459-1-42,adhd kadang - kadang didiagnosis sebagai orang dewasa,0,0,1,0,0,1,0,0,0,0,0,0,1
+83,83,459-1-126,"Anak-anak adalah gejala adhd perilaku pengendalian anak, struktur sekolah cenderung teratur.",0,0,1,0,1,0,0,0,0,0,0,0,0
+84,84,459-1-334,semakin tua perilakunya dikendalikan lingkungan kampus kantor ini bebas struktural daripada sekolah gejala,0,0,0,0,0,1,0,0,0,1,0,0,1
+85,85,458-1-0,tahu adhd sekelompok tanda-tanda gangguan psikologis gangguan fokus utama adalah konsentrasi,0,0,1,0,0,0,0,0,0,0,0,0,0
+86,86,458-1-158,Ditambah orang memiliki kemampuan untuk tetap fokus singkat jarang mengalami perubahan suasana hati sakit,0,0,1,1,0,0,0,0,0,0,0,0,0
+87,87,458-1-314,Gejala - gejala impulsif di mana pemikiran yang matang mengingatkan kita akan konsekuensinya.,0,0,0,1,0,0,0,0,0,0,0,0,0
+88,88,458-1-457,ada orang-orang yang sulit menerimanya berdiri diam-diam mengganggu pembicaraan orang tentang kegiatan fisik yang bertujuan,0,0,1,1,0,0,0,0,0,0,0,0,0
+89,89,458-1-616,Kondisi Adhd sulit untuk membedakan spektrum tanda-tanda autisme,0,0,1,0,0,0,0,0,0,0,0,0,0
+90,90,457-1-0,"Halo, wahyu.",0,0,0,0,0,0,0,1,0,0,0,0,0
+91,91,456-1-0,alodoks dewasa memiliki penyakit adhd anak,0,0,1,0,0,0,1,1,0,0,0,0,0
+92,92,456-1-138,Ini seperti memiliki adhd.,0,1,0,0,0,0,0,0,0,0,0,0,0
+93,93,456-1-240,Sangat jarang untuk memiliki konflik lalu lintas digunakan untuk mendorong kecepatan di atas.,0,0,0,1,0,0,0,0,0,0,0,0,0
+94,94,456-1-399,Kadang-kadang sulit untuk bersantai. cobalah untuk bersantai. berpikir tentang berdiri.,0,0,0,1,0,0,0,0,0,0,0,0,0
+95,95,456-1-648,terima kasih,0,0,0,0,0,0,0,0,0,0,0,1,0
+96,96,455-1-0,dari Bukankah itu?,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,97,454-1-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,98,453-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+99,99,452-1-0,menyarankan bahwa wali anak memiliki diskusi,0,0,0,0,1,0,0,0,0,0,0,0,0
+100,100,452-1-67,Ahli penasihat psikiater direktif arah memilih jenis sekolah terbaik,0,0,0,0,1,1,0,0,0,0,0,0,0
+101,101,451-1-0,Sehubungan dengan gejala anak adhd berbeda tingkat keparahan,0,0,1,0,0,0,0,0,0,0,0,0,0
+102,102,451-1-92,tergantung pada penanganan intensif,0,0,0,0,0,0,0,0,1,0,0,0,0
+103,103,451-1-166,"Anak-anak adhd pergi ke sekolah biasa, sekolah-sekolah inklusif berdampingan, anak-anak usia normal.",0,0,1,0,0,1,0,0,0,0,0,0,0
+104,104,451-1-315,Gejala - gejalanya cenderung memaksa pendidikan sekolah yang teratur berupa sekolah - sekolah inklusif untuk mencelakai anak itu,0,0,0,0,1,1,0,0,0,0,0,0,0
+105,105,451-1-483,Guru sekolah yang teratur dilatih untuk menangani adhd seorang anak.,0,0,1,0,0,0,0,0,0,0,0,0,0
+106,106,450-1-0,perhatian yang kurang efektif gangguan mental disorder discusfokus itu cenderung menjadi impulsif hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+107,107,450-1-177,Penanganan Adhd mengganggu prestasi belajar seorang anak,0,0,1,0,0,1,0,0,0,0,0,0,0
+108,108,450-1-279,Gangguan ini harus dideteksi. kualitas profesional kehidupan meningkat.,0,0,0,0,1,1,0,0,0,0,0,0,0
+109,109,448-1-0,"Halo, terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+110,110,449-1-0,Hapus adhd,0,0,0,0,0,0,1,0,0,0,0,0,0
+111,111,447-1-0,"Dokter menyukai anak-anak, sekolah anak-anak punya sekolah sekolah biasa, anak-anak bersekolah di sekolah biasa.",0,0,1,0,1,1,1,1,0,0,0,0,0
+112,112,446-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+113,113,445-1-0,Seiring dengan gaya hidup yang sehat,0,0,0,0,1,0,0,0,0,0,0,0,0
+114,114,444-1-0,membantu memilih lingkungan sosial untuknya,0,0,0,0,1,0,0,0,0,0,0,0,0
+115,115,443-1-0,"Hindari alkohol, narkoba, alkohol, psikotropika, zat adiktif.",0,0,0,0,1,0,0,0,0,0,1,0,0
+116,116,442-1-0,batasi penggunaan gadget,0,0,0,0,1,0,0,0,0,0,0,0,0
+117,117,441-1-0,Jangan biarkan adikmu melakukan kegiatan yang berbahaya.,0,0,0,0,1,0,0,0,0,0,0,0,0
+118,118,440-1-0,Mengajari seorang saudari untuk mengurus pelatihannya sendiri meningkatkan empati orang-orang.,0,0,0,0,1,0,0,0,0,0,0,0,0
+119,119,439-1-0,"Minta si adik untuk berinteraksi dengannya, tolong cari solusinya, perlakukan dia dengan lembut.",0,0,0,0,1,1,0,0,0,0,0,0,0
+120,120,438-1-0,pasien anggota keluarga terkoordinasi memperbaiki kondisi kakak,0,0,0,0,1,0,0,0,0,0,0,0,0
+121,121,437-1-0,"Lakukan, saudaraku.",0,0,0,0,1,0,0,0,0,0,0,0,0
+122,122,436-1-0,Kondisinya secara alami menunjukkan menemaninya periksa secara langsung dengan psikiater terdekat.,0,0,0,0,1,1,0,0,0,1,0,0,0
+123,123,435-1-0,mengurutkan pidato seringkali berulang-ulang sulit untuk berkonsentrasi logika nyamuk sulit untuk dibicarakan,0,0,0,1,0,0,0,0,0,0,0,0,0
+124,124,435-1-382,Menginterupsi orang-orang di sekitarnya bertahan dari aktivitas terbatas fungsi usia seorang anak terkena faktor yang mendalam seperti gangguan spektrum spektim gangguan perhatian kurang aktif gangguan mental gangguan kepribadian mental schzoaffective skizofrenia cedera,0,0,1,0,1,1,0,0,0,0,0,0,0
+125,125,434-1-0,"Halo, terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+126,126,433-1-0,"Terima kasih, dok.",0,0,0,0,0,0,0,0,0,0,0,1,0
+127,127,432-1-0,"Masuk akal, orang normal yang berbeda.",0,0,0,0,0,0,0,0,0,0,0,0,0
+128,128,432-1-81,Ya.,0,0,0,0,0,0,1,0,0,0,0,0,0
+129,129,432-1-106,Penyakit kakak./ Gangguannya.,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,130,431-1-0,Ajak psikolog untuk jalan-jalan.,0,0,0,0,1,1,0,0,0,0,0,0,0
+131,131,430-1-0,"Dokter, adik sakit.",0,0,0,0,0,0,1,0,0,0,0,0,0
+132,132,430-1-55,Di mana keluarga mengambil obat?,0,0,0,0,0,0,1,0,0,0,0,0,0
+133,133,429-1-0,hari libur,0,0,0,0,0,0,0,0,0,0,0,0,1
+134,134,429-1-31,"Pembicaraan keliling, Nona Siska menikah.",0,0,0,0,0,0,0,0,0,0,0,0,0
+135,135,429-1-99,Nona Siska adalah salah satu mantan gurunya.,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,136,429-1-142,"Ya, dia suka bicara.",0,0,0,1,0,0,0,0,0,0,0,0,0
+137,137,428-1-0,Hal itu menghasilkan cara bersosialisasi untuk berkomunikasi seperti orang normal.,0,0,0,0,0,1,0,0,0,0,0,0,0
+138,138,427-1-0,Logikanya berkembang.,0,0,0,1,0,0,0,0,0,0,0,0,0
+139,139,427-1-51,Sopan santun suka mengatakan bicara konsentrasi logika jalan,0,0,0,1,0,0,0,0,0,0,0,0,0
+140,140,427-1-203,Ngomong-ngomong soal kembaranmu.,0,0,0,1,0,0,0,0,0,0,0,0,0
+141,141,427-1-230,Loves repetative motions,0,0,0,1,0,0,0,0,0,0,0,0,0
+142,142,426-1-0,"Selamat siang, Dok.",0,0,0,0,0,0,0,0,0,0,0,0,0
+143,143,426-1-18,Adiknya berpikir dia tumbuh.,1,1,0,1,0,0,0,0,0,0,0,0,0
+144,144,425-1-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+145,145,424-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+146,146,423-1-0,melakukan meditasi yoga relaksasi,0,0,0,0,1,0,0,0,0,0,0,0,0
+147,147,422-1-0,Lakukan latihan rutin.,0,0,0,0,1,0,0,0,0,0,0,0,0
+148,148,421-1-0,Cobalah untuk melakukan rutinitas lambat sekitar mendengarkan musik.,0,0,0,0,1,0,0,0,0,0,0,0,0
+149,149,420-1-0,Cobalah menulis buku catatan atau catatan telepon. Lakukan.,0,0,0,0,1,1,0,0,0,0,0,0,0
+150,150,419-1-0,Alihkan pikiran negatif kegiatan positif kesenangan,0,0,0,0,1,0,0,0,0,0,0,0,0
+151,151,418-1-0,Jangan sendirian,0,0,0,0,1,0,0,0,0,0,0,0,0
+152,152,417-1-0,Sulit untuk bercerita tentang menulisnya di buku catatan.,0,0,0,0,1,0,0,0,0,0,1,0,0
+153,153,416-1-0,Orang-orang percaya pada teman-teman mereka.,0,0,0,0,1,0,0,0,0,0,0,0,0
+154,154,415-1-0,Beristirahatlah.,0,0,0,0,1,0,0,0,0,0,0,0,0
+155,155,412-1-0,kondisi alami akibat gangguan kecemasan kondisional gangguan panik ptsd post traumat stress disorder condition,0,0,1,0,0,0,0,0,1,0,0,0,0
+156,156,412-1-194,Menyebabkan kondisi konsultan psikiater,0,0,0,0,1,0,0,0,0,0,0,0,0
+157,157,412-1-307,Dokter melakukan wawancara singkat mengenai kondisi pemeriksaan fisik.,0,0,0,0,1,0,0,0,0,0,0,0,0
+158,158,412-1-456,penyebab kondisi penanganan yang sesuai,0,0,0,0,0,1,0,0,0,0,0,0,0
+159,159,411-1-0,itu sulit untuk direncakan sudah menjadi ciri hiperaktivitas yang melanggar aturan mental karakteristik itu agak sulit untuk direnungkan sudah menjadi ciri khas sekarang ini sudah menjadi ciri khas masyarakat sekarang juga ahhhhh sudah tua,0,0,1,1,0,1,0,0,0,1,0,0,1
+160,160,411-1-423,keadaan adhd dewasa memiliki riwayat adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+161,161,411-1-516,memiliki adhd sejarah,0,0,1,0,0,0,0,0,0,0,0,0,0
+162,162,407-1-0,memahami perasaan,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,163,407-1-38,Orang-orang merasakan kesedihan.,0,0,0,0,0,1,0,0,0,0,0,0,0
+164,164,407-1-147,Tampaknya sedih disertai dengan faktor pemicu.,0,0,0,0,0,1,0,0,0,1,0,0,0
+165,165,407-1-240,Pemeriksaan evaluasi gangguan aktivitas dari hari ke hari.,0,0,0,0,1,1,0,0,0,0,0,0,0
+166,166,404-1-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+167,167,403-1-0,"Halo, putri.",0,0,0,0,0,0,0,1,0,0,0,0,0
+168,168,400-1-0,terbaik,0,0,0,0,0,0,0,0,0,0,0,1,0
+169,169,398-1-0,Peneliti tinggal di Vietnam tugas di atas kemungkinan.,0,0,0,0,0,1,0,0,0,0,0,0,0
+170,170,398-1-122,teman telah adhd menyarankan menambahkan pemeriksaan checklist,0,0,1,0,0,0,1,0,0,0,0,0,0
+171,171,398-1-233,jangan menghilangkan rasa takut kurang membantu fokus,0,0,0,0,0,1,1,0,0,0,0,0,0
+172,172,398-1-353,Terima kasih atas bantuanmu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+173,173,394-1-0,minggu teman keluarga meninggal,0,0,0,0,0,0,0,0,1,0,0,0,1
+174,174,394-1-64,Sulit untuk fokus sulit untuk menetapkan prioritas.,0,0,0,1,0,1,0,0,0,0,0,0,0
+175,175,394-1-400,Takut pagi hari.,0,0,0,0,0,1,0,0,0,0,0,0,0
+176,176,392-1-0,dokter,0,0,0,0,0,0,0,1,0,0,0,0,0
+177,177,391-1-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+178,178,390-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+179,179,389-1-0,Ambil seorang anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+180,180,388-1-0,Membawa seorang anak ke aktivitas fisik setidaknya dalam satu menit,0,0,0,0,1,0,0,0,0,0,0,0,1
+181,181,387-1-0,membatasi anak-anak menonton televisi bermain video game telepon komputer,0,0,0,0,1,0,0,0,0,0,0,0,0
+182,182,386-1-0,mengatur jadwal tidur anak - anak secara teratur,0,0,0,0,1,0,0,0,0,0,0,0,0
+183,183,385-1-0,"Bantu seorang anak mengatur kehidupannya, mengatur kegiatannya, menjaga lingkungannya tetap rapi.",0,0,0,0,1,0,0,0,0,0,0,0,0
+184,184,384-1-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,1
+185,185,383-1-0,adhd keadaan alami anak,1,0,1,0,0,0,0,0,0,0,0,0,0
+186,186,383-1-129,Anak-anak sulit berkonsentrasi hiperaktif menderita adhd,0,0,1,1,0,0,0,0,0,0,0,0,0
+187,187,383-1-206,Prognosis adhd serangkaian pemeriksaan evaluasi,0,0,1,0,1,0,0,0,0,0,0,0,0
+188,188,383-1-290,spesialis konsultasi anak menentukan kondisi anak normal adhd kondisi,0,0,1,0,1,0,0,0,0,0,0,0,0
+189,189,382-1-0,perkembangan motorik sosial anak,0,0,0,0,0,1,0,0,0,0,0,0,0
+190,190,382-1-99,Faktor genetis lingkungan mempengaruhi perkembangan anak,0,0,0,0,0,1,0,0,1,0,0,0,0
+191,191,382-1-167,Kondisi anak-anak adalah bahwa anak-anak memiliki aktivitas dalam penyaluran energi anak-anak nyaman menyebabkan kondisi anak-anak sulit untuk mengatur emosi mereka perhatian mereka terhadap gangguan hiperaktif adhd salah pengembangan remaja dewasa.,0,0,1,0,0,1,0,0,1,0,0,0,0
+192,192,382-1-584,gejala adhd anak muncul usia,0,0,1,0,0,0,0,0,0,0,0,0,0
+193,193,382-1-647,Gejala Adhd sulit untuk fokus pada perilaku hiperaktif dan impulsif,0,0,0,1,0,0,0,0,0,0,0,0,0
+194,194,375-1-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+195,195,374-1-0,Halo Maurha,0,0,0,0,0,0,0,1,0,0,0,0,0
+196,196,244-1-0,"Dokterku adalah seorang anak dari bulan September, dia masih anak-anak.",1,1,0,0,0,0,0,0,0,0,0,0,0
+197,197,244-1-61,Mengekspresikan perilaku anak sebagian besar,0,0,0,1,0,0,0,0,0,0,0,0,0
+198,198,244-1-157,"Sulit untuk diam, sulit untuk menunggu.",0,0,0,1,0,0,0,0,0,0,0,0,0
+199,199,244-1-507,lompat duduk,0,0,0,1,0,0,0,0,0,0,0,0,0
+200,200,244-1-545,Berjalan di pijat kadang-kadang melompat alami ya gejala doc seorang anak menderita adhd,0,0,1,1,0,0,1,0,0,0,0,0,0
+201,201,243-1-0,Kuharap itu sepadan.,0,0,0,0,0,0,0,0,0,0,0,1,0
+202,202,243-1-55,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+203,203,242-1-0,Periksa anak dokter anak psikiater putri apos; s pengobatan menurut kondisi anak apos; s adhd,1,0,1,0,1,1,0,0,0,0,0,0,0
+204,204,241-1-0,Adhd terapi gejala bertahap remaja menyebabkan gangguan sosial kinerjanya sangat parah ini mengembangkan gangguan kepribadian antisosial pada usia dewasa.,0,0,0,0,0,1,0,0,0,1,0,0,1
+205,205,240-1-0,Gejala Adhd meningkatkan terapi medis bersama dengan dukungan keluarga,0,0,1,0,1,1,0,0,0,0,0,0,0
+206,206,240-1-117,Keadaan pemulihan Adhd menyesuaikan gejala - gejala anak,0,0,1,0,0,0,0,0,0,0,0,0,0
+207,207,239-1-0,Terapi Adhd mencakup pelajaran keluarga yang berkaitan dengan berurusan dengan anak - anak dengan adhd diajarkan untuk menerapkan pujian atas hukuman perilaku yang mengarahkan kegiatan sehari - hari seorang anak sesuai dengan kesanggupannya,1,0,1,0,1,0,0,0,0,0,0,0,0
+208,208,238-1-0,Ini obat psikoterapi yang mendukung kualitas hidup.,0,0,0,0,1,1,0,0,0,0,1,0,0
+209,209,237-1-0,perhatian yang terbatas pada gangguan hiperaktivitas mental disorder anak-anak sudah ditandai anak-anak yang keras untuk khawatir kalau perilakunya menjadi agresif dan hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+210,210,236-1-0,"Halo, terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+211,211,235-1-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+212,212,234-1-0,Lebih baik anak adhd mengikuti thirapy,1,0,1,0,1,0,1,0,0,1,0,0,0
+213,213,233-1-0,Adhd anak terapi dok Hallo berada di bawah kendali,1,0,1,0,0,1,1,1,0,0,0,0,0
+214,214,232-1-0,"Terima kasih, kuharap kau membantu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+215,215,231-1-0,"Dengan anak pasien, kondisinya adalah ya, Adhd membutuhkan perawatan khusus.",1,0,0,0,1,0,0,0,1,0,0,0,0
+216,216,231-1-127,"Pantau kondisi pertumbuhan anak, perkembangan anak adalah gangguan kontrol rutin, dokter terapis anak.",1,0,0,0,1,0,0,0,0,0,0,0,0
+217,217,230-1-0,"Makanan macam apa yang dikonsumsi oleh orang-orang adhd yang makan protein yang baik otak kacang daging telur, salmon keju ikan tuna.",0,0,1,0,0,1,0,0,0,0,1,0,0
+218,218,230-1-178,Para penderita add makanan mengkonsumsi makanan rendah karbohidrat membatasi beras kentang putih gula,0,0,1,0,0,0,0,0,0,0,1,0,0
+219,219,230-1-336,Makanan dilarang.,0,0,0,0,1,0,0,0,0,0,0,0,0
+220,220,230-1-379,Hindari makan makanan cepat saji-berlimpah makanan-dipaketkan makanan ringan.,0,0,0,0,1,0,0,0,0,0,1,0,0
+221,221,229-1-0,perhatian yang tidak memadai untuk hiperaktivitas disorder salah jenis pendisposisi mental yang ditandai anak itu keras karena sudah terbiasa menjadi sangat hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+222,222,229-1-185,Diagnosa Adhd dipaksa bekerja sama dengan psikiater dokter anak.,0,0,1,0,1,0,0,0,0,0,0,0,0
+223,223,229-1-320,Adhd dirawat dengan obat psikoterapi untuk mengurangi gejala adhd memaksimalkan kehidupan normal si penderita.,0,0,1,1,1,1,0,0,0,0,0,0,0
+224,224,228-1-0,"Halo, terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+225,225,226-1-0,Dok usia adhd ia bingung anak adhd ingin makan dan ssh mencoba diet dia tipis dengan diet hiper mungkin meningkatkan solusi,1,1,1,0,1,1,1,0,0,1,0,0,1
+226,226,225-1-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+227,227,224-1-0,Pastikan dokter anak memiliki cek langsung.,0,0,0,0,1,0,0,0,0,0,0,0,0
+228,228,224-1-103,Dokter spesialis dokter anak ahli jiwa psikoterapi terapi obat menyesuaikan kondisi kakak,0,0,0,0,1,0,0,0,0,1,0,0,0
+229,229,223-1-0,orang memiliki kesulitan fokus pada perilaku hiperaktif.,0,0,1,1,0,0,0,0,0,0,0,0,0
+230,230,223-1-128,addhd anak,1,1,1,0,0,0,0,0,0,0,0,0,0
+231,231,222-1-0,Sulit untuk menentukan diagnostik langsung,0,0,0,0,1,1,0,0,1,0,0,0,0
+232,232,222-1-84,Penyebab gangguan ini adalah gangguan hiperaktivitas gangguan perhatian adik perempuan adhd penyakit epilepsi,0,0,1,0,0,0,0,0,0,0,0,0,0
+233,233,221-1-0,"Pertanyaannya adalah, Dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+234,234,220-1-0,Orang tua itu terkena malaria.,0,1,1,0,0,0,0,1,0,0,0,0,0
+235,235,220-1-85,Dirawat di rumah sakit.,0,0,0,0,1,0,0,0,0,0,1,0,1
+236,236,220-1-124,Rumah selama seminggu di rumah.,0,0,0,0,1,0,0,0,0,0,0,0,1
+237,237,220-1-190,Hasil tes kesehatan,0,0,0,0,0,1,0,0,0,0,0,0,0
+238,238,220-1-217,Demam kakak menggerakkan tangannya,0,0,0,0,0,1,0,0,1,0,0,0,0
+239,239,220-1-299,Diam berjalan di jalan,0,0,0,1,0,0,0,0,0,0,0,0,0
+240,240,220-1-337,Duduk tangannya masih gelisah,0,0,0,1,0,0,0,0,0,0,0,0,0
+241,241,220-1-393,Tempat tidur bergerak tangan bergulir berulang-ulang.,0,0,0,1,0,0,0,0,0,0,0,0,0
+242,242,220-1-484,dok wajar,0,0,0,0,0,0,1,0,0,0,0,0,0
+243,243,220-1-502,Aku khawatir.,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,244,220-1-524,aktivitas apapun,0,0,0,0,0,1,0,0,0,0,0,0,0
+245,245,220-1-574,kencing belajar untuk menulis tentang gelisah perasaan diam.,0,0,0,0,0,0,0,0,1,0,0,0,0
+246,246,219-1-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+247,247,218-1-0,Silakan rangsang komunikasi teratur anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+248,248,218-1-87,"Bacalah buku cerita anak - anak tentang anak - anak ini, dan buatlah komunikasi dengan anak - anak.",0,0,0,0,1,1,0,0,0,0,0,0,0
+249,249,217-1-0,Tolong periksa dokter anak terdekat.,0,0,0,0,1,0,0,0,0,0,0,0,0
+250,250,217-1-53,Para dokter menceritakan kondisi seorang anak yang sedang memeriksa pertumbuhan seorang anak.,1,0,0,0,1,0,0,0,0,0,0,0,0
+251,251,217-1-174,pemeriksaan dokter ditangani,0,0,0,0,0,1,0,0,0,0,0,0,0
+252,252,217-1-274,Mengetahui kondisi konsultasi dokter jarang terjadi.,0,0,0,0,1,1,0,0,0,0,0,0,0
+253,253,216-1-0,stres psikologis,0,0,0,0,0,0,0,0,1,0,0,0,0
+254,254,215-1-0,malnutrisi,0,0,0,0,0,0,0,0,1,0,0,0,0
+255,255,214-1-0,hipotiroidisme,0,0,1,0,0,0,0,0,1,0,0,0,0
+256,256,213-1-0,Gangguan pemberontak oposisi,0,0,1,0,0,0,0,0,1,0,0,0,0
+257,257,212-1-0,attention defisit hyperactivity disorder adhd,0,0,1,0,0,0,0,0,1,0,0,0,0
+258,258,211-1-0,autisme,0,0,1,0,0,0,0,0,1,0,0,0,0
+259,259,210-1-0,anak berbicara fasih keponakan usia,1,0,0,0,0,0,0,0,0,0,0,0,0
+260,260,210-1-81,gangguan komunikasi berinteraksi dengan orang-orang yang menyebabkan,0,0,1,0,0,0,0,0,0,0,0,0,0
+261,261,209-1-0,"Halo, Pak Naiun./ Terima kasih.",0,0,0,0,0,0,0,1,0,0,0,0,0
+262,262,208-1-0,keponakannya berbicara dengannya berinteraksi sulit untuk bermain dengan teleponnya berteriak,0,1,0,1,0,0,1,1,0,0,0,0,0
+263,263,208-1-290,Dokter gejala terapi khusus.,0,0,0,0,0,0,1,0,0,0,0,0,0
+264,264,208-1-339,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+265,265,207-1-0,Saran kondisi mempengaruhi guru konseling orang tua memeriksa dokter anak-anak di bawah seorang psikolog yang mencari fokus terkait mental pada penanganan fokus terbaik.,0,0,0,0,1,1,1,0,0,1,0,0,0
+266,266,207-1-329,ayo latihan bicara tentang topik pilihan orang menarik,0,0,0,0,1,0,0,0,0,0,0,0,0
+267,267,207-1-483,Subjek memiliki fokus.,0,0,0,0,0,1,0,0,0,1,0,0,0
+268,268,207-1-572,"Nah, mari kita berharap begitu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+269,269,206-1-0,memeriksa gejala yang terkait penggalian,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,270,206-1-115,mengeluh tentang kesulitan fokus dari pidato orang lain,0,0,0,1,0,0,0,0,0,0,0,0,0
+271,271,206-1-207,Sulit untuk fokus. sulit untuk fokus. sulit untuk melihat orang yang berbicara.,0,0,0,0,0,0,1,0,0,0,0,0,0
+272,272,206-1-539,Orang-orang merasa nyaman berinteraksi dengan gangguan sosial yang terlatih.,0,0,0,0,0,1,0,0,1,0,0,0,0
+273,273,206-1-710,Fokus yang menarik.,0,0,0,0,0,1,0,0,1,0,0,0,0
+274,274,206-1-809,Konteks subjek bosan dari tipe orang belajar praktek pendengaran,0,0,0,0,0,0,0,0,1,0,0,0,0
+275,275,206-1-959,selesai menonton video talkshow fokus video internet,0,0,0,0,0,1,0,0,0,1,0,0,0
+276,276,205-1-0,gejala adhd alami,0,0,1,0,0,1,0,0,0,1,0,0,0
+277,277,205-1-122,dhd kondisi darurat anak-anak yang paling besar masih menjadi orang dewasa,0,0,1,0,0,0,0,0,0,0,0,0,1
+278,278,205-1-318,Gangguan mental tampaknya mempengaruhi kehidupan akademis alami adhd,0,0,1,0,0,1,0,0,0,1,0,0,0
+279,279,205-1-509,Pemeriksaan psikolog remaja.,0,0,0,0,1,0,0,0,0,0,0,0,0
+280,280,204-1-0,Selamat siang Rizqi terima kasih dokter alo,0,0,0,0,0,0,0,1,0,0,0,0,0
+281,281,204-1-63,memahami kebingungan,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,282,204-1-95,Mengenai penyakit mental Adhd wawancara pemeriksaan langsung pengamatan mendalam dari ahli tes psikologis.,0,0,1,0,1,0,0,0,0,0,0,0,0
+283,283,203-1-0,mencoba mencari di Internet untuk gejala addhd,0,0,1,0,1,0,0,0,0,0,0,0,0
+284,284,203-1-87,adhd attention insertion disorder,0,0,1,0,0,0,0,0,0,0,0,0,0
+285,285,203-1-154,Takut akan penjelasan dokter.,0,0,0,0,0,1,0,0,0,1,0,0,0
+286,286,203-1-264,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+287,287,202-1-0,Inti dari saudara yang berbicara secara sadar,0,0,0,0,0,0,0,0,0,0,0,0,1
+288,288,202-1-106,Kata orang itu omong kosong.,0,0,0,0,1,0,0,0,0,1,0,0,0
+289,289,202-1-213,ya sedikit saja ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya kok ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya,0,0,0,0,0,1,0,0,0,0,0,0,0
+290,290,201-1-0,terlepas dari keluhan kehidupan sadar,0,0,0,0,0,0,0,0,0,0,0,0,1
+291,291,201-1-146,"Dimana sulit untuk berkonsentrasi, lawan berbicara.",0,0,0,1,0,0,0,0,1,0,0,0,0
+292,292,201-1-229,Karena kali ini disebut cemoohan mendengarkan guru belajar cinta untuk belajar internet. buku mudah ditangkap.,0,0,0,1,0,1,0,0,1,1,0,0,0
+293,293,201-1-455,Itu tidak penting.,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,294,200-1-0,"Halo, doc.",0,0,0,0,0,0,0,1,0,0,0,0,0
+295,295,200-1-10,panggilan Rizqi,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,296,200-1-35,Remaja menjalani kehidupan normal seolah - olah usia mereka sama,1,1,0,0,1,0,0,0,0,0,0,0,0
+297,297,200-1-188,yang paling buruk adalah pelanggarangian kita bahagia yang lain,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,298,199-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+299,299,198-1-0,"Jauhi narkoba, alkohol, psikotropika, zat yang adiktif dari disiplin alkohol menghasilkan gaya hidup yang sehat",0,0,0,0,1,0,0,0,0,0,1,0,0
+300,300,197-1-0,Bergaul akan mendatangkan manfaat bagi diri sendiri,0,0,0,0,1,1,0,0,0,0,0,0,0
+301,301,196-1-0,Tujuan hidup adalah untuk berfokus pada mengembangkan potensi untuk prestasi yang bangga.,0,0,0,0,1,1,0,0,0,0,0,0,0
+302,302,195-1-0,meningkatkan introspeksi meditasi tenang,0,0,0,0,1,0,0,0,0,0,0,0,0
+303,303,194-1-0,Jadwal kebudayaan sehari - hari untuk menjaga jadwal agar dapat menempuh kehidupan yang teratur,0,0,0,0,1,1,0,0,0,0,0,0,0
+304,304,193-1-0,Kondisi membaik.,0,0,0,0,0,1,0,0,0,0,0,0,0
+305,305,192-1-0,Pemeriksaan langsung sulit untuk membedakan jenis normal kondisi,0,0,0,0,0,1,0,0,0,0,0,0,0
+306,306,192-1-120,Psikolog psikiater langsung penasaran mengevaluasi wawancara komprehensif struktur pemeriksaan fisik pemeriksaan cek,0,0,0,0,1,0,0,0,0,0,0,0,0
+307,307,191-1-0,Diam itu sulit.,0,0,1,1,0,0,0,0,0,0,0,0,0
+308,308,191-1-286,Berbagai keluhan yang sebenarnya tentang kepribadian alami mempengaruhi sikap pikiran,0,0,0,0,0,1,0,0,1,0,0,0,0
+309,309,191-1-476,"Kondisi lingkungan dipengaruhi oleh kondisi lingkungan. gangguan mental adalah gangguan kecemasan, gangguan kepribadian adalah gangguan bipolar siclotimik gangguan bipolar. gangguan skizoafektif.",0,0,1,0,0,0,0,0,1,0,0,0,0
+310,310,190-1-0,"Halo, terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+311,311,189-1-0,Pemeriksaan psikologi.,0,0,0,0,0,0,1,0,0,0,0,0,0
+312,312,189-1-45,"Fase diagnosisnya, Dok./ Terima kasih.",0,0,0,0,0,0,0,0,0,0,0,1,0
+313,313,188-1-0,"mengeluh. sulit untuk fokus, sobat lihat internet disebutkan di atas adhd alami.",0,0,1,1,0,0,0,0,0,0,0,0,1
+314,314,187-1-0,"Halo Dokter, usia dikatakan diam, sulit untuk fokus.",0,1,0,1,0,0,0,1,0,0,0,0,0
+315,315,187-1-256,Sulit untuk menetapkan prioritas pada saat yang sama orang-orang berantakan harus berada di depan mata berantakan.,0,0,0,1,0,1,0,0,0,0,0,0,0
+316,316,187-1-565,Sebagian besar intensitas.,0,0,0,0,0,0,0,0,0,0,0,0,1
+317,317,186-1-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+318,318,185-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+319,319,184-1-0,teknik relaksasi rutin,0,0,0,0,1,0,0,0,0,0,0,0,0
+320,320,183-1-0,menjaga asupan nutrisi,0,0,0,0,1,0,0,0,0,0,0,0,0
+321,321,182-1-0,berinteraksi dengan orang-orang,0,0,0,0,1,0,0,0,0,0,0,0,0
+322,322,181-1-0,mengendalikan stres,0,0,0,0,1,0,0,0,0,0,0,0,0
+323,323,180-1-0,menulis kerja menulis catatan smartphone kerja,0,0,0,0,1,1,0,0,0,0,0,0,0
+324,324,179-1-0,"Fokus, selesaikan, selesaikan.",0,0,0,0,1,0,0,0,0,0,0,0,0
+325,325,178-1-0,Jangan tidur larut malam.,0,0,0,0,1,0,0,0,0,0,0,0,0
+326,326,177-1-0,Kegiatan fisik ringan yang melelahkan,0,0,0,0,1,0,0,0,0,0,0,0,0
+327,327,176-1-0,"Sebutkan kondisi stres depresinya, sebutkan faktor pemicu alaminya.",0,0,0,0,0,0,0,0,1,0,0,0,0
+328,328,176-1-153,disarankan berkonsultasi dengan dokter psikiater.,0,0,0,0,1,0,0,0,0,0,0,0,0
+329,329,176-1-256,dokter memeriksa penyebab perawatan keluhan yang sesuai,0,0,0,0,1,1,0,0,0,0,0,0,0
+330,330,176-1-378,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,331,175-1-0,stres psikologis,0,0,0,0,0,0,0,0,1,0,0,0,0
+332,332,174-1-0,efek samping konsumsi obat-obatan,0,0,0,0,0,0,0,0,1,0,1,0,0
+333,333,173-1-0,Minum alkohol.,0,0,0,0,0,0,0,0,1,0,1,0,0
+334,334,172-1-0,Konsumsi vitamin b,0,0,0,0,0,0,0,0,1,0,1,0,0
+335,335,171-1-0,"Gangguan kesehatan, gangguan hormon tiroid, riwayat cedera kepala.",0,0,0,0,0,0,0,0,1,0,0,0,0
+336,336,170-1-0,kurang tidur,0,0,0,0,0,0,0,0,1,0,0,0,0
+337,337,169-1-0,Keluhan alami menciptakan pemeriksaan evaluasi gangguan aktivitas,0,0,0,0,1,1,0,0,0,0,0,0,1
+338,338,169-1-200,Kondisi alami sulit untuk fokus keras untuk berkonsentrasi karena penyebab,0,0,0,1,0,0,0,0,0,0,0,0,0
+339,339,168-1-0,kurang perhatian gangguan hiperaktif adhd gangguan perkembangan yang salah bagi remaja dewasa,0,0,1,0,0,0,0,0,0,0,0,0,1
+340,340,168-1-168,gejala adhd anak muncul usia muncul insidensi anak dewasa jarang didiagnosis adhd anak mengalami kambuhnya kembali usia,0,0,1,0,0,0,0,0,0,0,0,0,1
+341,341,168-1-498,gejala adhd anak sulit untuk fokus pada perilaku impulsif hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+342,342,168-1-607,Adhd mengalami usia dewasa dengan adhd,0,1,1,0,0,0,0,0,0,0,0,0,1
+343,343,168-1-711,gejala adhd hiperaktif menurun dengan usia,0,0,0,1,0,1,0,0,0,1,0,0,0
+344,344,168-1-790,gejala - gejala yang sulit untuk difokuskan cenderung memburuk seraya mereka bertambah tua.,0,0,0,0,0,1,0,0,0,1,0,0,0
+345,345,167-1-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+346,346,166-1-0,Halo Huriyatul.,0,0,0,0,0,0,0,1,0,0,0,0,0
+347,347,165-1-0,tambah dok,0,0,1,0,0,0,1,0,0,0,0,0,0
+348,348,165-1-31,ct scan,0,0,0,0,1,0,1,0,0,0,0,0,0
+349,349,164-1-0,"Selamat pagi, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+350,350,164-1-22,Murid perempuan Smt,1,0,0,0,0,0,0,0,0,0,0,0,0
+351,351,164-1-52,Memiliki masalah dengan kursus karena fokus.,0,0,0,0,0,1,0,0,1,0,0,0,0
+352,352,164-1-112,Sangat mudah untuk bosan sulit untuk duduk-duduk dan mendengarkan ruangan kadang-kadang sulit untuk menangkap pembicaraan tentang pelanggaran,0,0,0,1,0,0,0,0,1,0,0,0,1
+353,353,164-1-325,Sakit kepala memperkuat konsentrasi emosional wajah keras nama Hyperfocus.,0,0,1,1,0,1,0,0,0,0,0,0,0
+354,354,164-1-514,Itu hal yang wajar untuk dipikirkan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,355,164-1-571,Teman-teman berpikir itu alami.,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,356,164-1-646,Menindaklanjuti perilaku yang depresif,0,0,0,1,0,0,0,0,1,0,0,0,0
+357,357,163-1-0,Semoga berhasil.,0,0,0,0,0,0,0,0,0,0,0,1,0
+358,358,162-1-0,Keluhan anak yang semakin bertambah menyebabkan keluhan anak disarankan untuk berkonsultasi langsung dengan psikiater.,0,0,0,0,1,1,0,0,0,1,0,0,0
+359,359,162-1-191,Dokter menjelaskan pemeriksaan fisik.,0,0,0,0,1,0,0,0,0,0,0,0,0
+360,360,162-1-316,ditangani sesuai dengan kondisi medis anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+361,361,161-1-0,Membawa seorang anak ke aktivitas fisik setidaknya dalam satu menit,0,0,0,0,1,0,0,0,0,0,0,0,0
+362,362,160-1-0,membatasi anak-anak menonton televisi bermain video game telepon komputer,0,0,0,0,1,0,0,0,0,0,1,0,0
+363,363,159-1-0,Tidur anak laki-laki istirahat.,0,0,0,0,1,0,0,0,0,0,0,0,0
+364,364,158-1-0,menyesuaikan pola makan yang sehat dengan makanan yang bergizi,0,0,0,0,1,0,0,0,0,0,1,0,0
+365,365,157-1-0,membantu seorang anak mengendalikan gejala adhd menerapkan pola hidup yang sehat dari seorang anak,0,0,0,0,1,1,0,0,0,0,0,0,0
+366,366,156-1-0,Gejala Adhd muncul pada usia anak-anak,0,0,1,0,0,0,0,0,0,0,0,0,1
+367,367,156-1-65,Gejala adhd seorang anak,0,0,1,0,0,0,0,0,0,0,0,0,1
+368,368,156-1-151,adhdboyscarred,0,0,1,0,0,1,0,0,0,0,0,0,0
+369,369,155-1-0,terkait adhd perhatian adhd defific hyperactivity Disorder mental gangguan menyebabkan anak-anak sulit untuk fokus pada memiliki perilaku impulsif hiperaktif mempengaruhi prestasi anak-anak sekolah,0,0,1,0,0,1,0,0,0,0,0,0,0
+370,370,154-1-0,Terima kasih.,0,0,0,0,0,0,0,1,0,0,0,0,0
+371,371,153-1-0,Halo.,0,0,0,0,0,0,0,1,0,0,0,0,0
+372,372,152-1-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+373,373,151-1-0,anak-anak ya hiperaktif dhddya doc,0,0,0,0,0,0,1,0,0,0,0,0,0
+374,374,151-1-53,ambil anak itu bilang pada kerumunan orang yang tenang,0,0,0,0,0,1,1,0,0,1,0,0,0
+375,375,150-1-0,"Anaknya lurus, dia berbicara lurus, dia mengatakan thedy kendaraan.",0,0,0,0,0,0,0,0,0,0,0,0,0
+376,376,150-1-144,Rumah yang bagus.,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,377,150-1-182,Eksklusif,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,378,150-1-209,Tangannya mengenai pria yang meninggal.,0,0,0,0,0,1,0,0,0,1,0,0,0
+379,379,150-1-271,ttp seperti penjara,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,380,149-1-0,Anak itu tidak diizinkan untuk berjalan.,0,0,0,1,0,1,0,0,0,1,0,0,0
+381,381,149-1-52,Ini bagus untuk berjalan Jalankan di mana dy adalah.,0,0,0,1,0,0,0,0,0,0,0,0,0
+382,382,149-1-120,makan diam-diam tunggu tunggu sulit untuk mengurus anak,0,0,0,1,0,1,0,0,0,1,0,0,0
+383,383,149-1-241,Kadang-kadang frustrasi bagaimana menghadapinya.,0,0,0,0,0,1,0,0,0,0,0,0,0
+384,384,148-1-19,memiliki seorang putra usia,1,1,0,0,0,0,0,0,0,0,0,0,0
+385,385,148-1-59,Itu adalah berapa lama sekolah.,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,386,148-1-148,Cobalah masukkan fokus kelompok belajar anak - anak,0,0,0,1,0,0,0,0,0,0,0,0,0
+387,387,148-1-233,Dia baik untuk menonton Dia akan menguji sekolah.,0,0,0,1,0,0,0,0,0,0,0,0,0
+388,388,148-1-325,belajar di rumah,0,0,0,0,0,0,0,0,0,1,0,0,0
+389,389,148-1-385,Sekarang membebaskan dy bermain memaksa sekolah pengujian,0,0,0,0,0,1,0,0,0,0,0,0,0
+390,390,147-1-0,"Selamat siang, dok.",0,0,0,0,0,0,0,1,0,0,0,0,0
+391,391,146-1-0,"Terima kasih, semoga membantu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+392,392,145-1-0,mendiagnosa kerjasama dokter anak dan wawancara psikiater untuk mendiagnosis penderitaan adhd keparahan mendeteksi penyakit,0,0,1,0,1,1,0,0,0,0,0,0,0
+393,393,144-1-0,perilaku hiperaktif secara impulsif ditandai sulit untuk duduk masih duduk bergerak tubuh duduk seperti berjalan lari seperti memotong pembicaraan orang,0,0,0,1,0,0,0,0,0,0,0,0,0
+394,394,143-1-0,Gejala kesulitan yang terfokus pada gejala adalah subjek untuk fokus perhatian mudah dialihkan mendengarkan detail kehilangan barang sulit untuk mengikuti petunjuk seperti kegiatan konsentrasi,0,0,0,1,0,0,0,0,0,0,0,0,0
+395,395,142-1-0,adhd adalah gangguan mental yang menyebabkan anak-anak sulit untuk melihat sebagai perilaku impulsif hiperaktif mempengaruhi prestasi anak-anak sekolah,0,0,1,1,0,1,0,0,0,0,0,0,0
+396,396,142-1-180,Penyebab utama adhd dipengaruhi oleh faktor genetik lingkungan.,0,1,0,0,0,0,0,0,1,0,0,0,0
+397,397,142-1-392,Spektrum gejala adhd sulit untuk fokus pada perilaku impulsif hiperaktif.,0,0,0,1,0,0,0,0,0,0,0,0,0
+398,398,97-1-0,menentukan anak memiliki adhd psikiater gejala spesifik langsung pemeriksaan,0,0,1,0,1,1,0,0,0,1,0,0,0
+399,399,97-1-209,Sedang mendiagnosa pemeriksaan psikologi seorang psikiater.,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,400,82-1-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+401,401,81-1-0,dok anak adalah adhd,1,0,0,0,0,0,1,0,0,0,0,0,0
+402,402,81-1-94,Sejak datang kemarin guru laporan dari orang tua kelas anak-anak fokus menangis manajer di kelas bergerak diam-diam ke kelas.,0,0,0,1,0,1,0,0,0,0,0,0,1
+403,403,81-1-357,{\cH00FFFF}Takut untuk bermain ayunan. {\cH00FFFF}Bergoyanglah dan tetap di pojok. {\cH00FFFF}Lihat permainan teman-temannya.,0,0,0,1,0,0,0,0,0,0,0,0,0
+404,404,81-1-500,Berani untuk menghukum adhd,0,0,0,0,0,0,0,0,0,1,0,0,0
+405,405,81-1-560,Berkonsultasilah dengan dokter.,0,0,0,0,1,0,0,0,0,0,0,0,0
+406,406,81-1-592,"Terima kasih, Dokter.",0,0,0,0,0,0,0,0,0,0,0,1,0
+407,407,70-1-0,"Halo, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+408,408,70-1-13,perkenalkan Valentina,0,0,0,0,0,0,0,1,0,0,0,0,0
+409,409,69-1-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+410,410,68-1-0,"Hindari narkotika, alkohol, psikotropika, non-mematikan zat merokok.",0,0,0,0,1,0,0,0,0,0,0,0,0
+411,411,67-1-0,"Bekerjalah sungguh - sungguh dalam ibadatmu, gunakanlah berbagai kegiatan yang positif, jagalah imajinasimu tetap terkendali.",0,0,0,0,1,0,0,0,0,0,0,0,0
+412,412,65-1-0,Memiliki masa lalu yang panjang tetapi mengambil kebijaksanaan membuat seseorang kuat,0,0,0,0,1,0,0,0,0,1,0,0,0
+413,413,60-1-0,"Komunikasi keluarga teman, pelajari, teruskan.",0,0,0,0,1,0,0,0,0,0,0,0,0
+414,414,57-1-0,Introspeksi penggalian mengoreksi saran untuk mengoreksi orang - orang yang terdekat dengan mereka,0,0,0,0,1,0,0,0,0,0,0,0,0
+415,415,55-1-0,"Penghadang langkah, lakukan.",0,0,0,0,1,0,0,0,0,0,0,0,0
+416,416,54-1-0,Sangat mudah untuk membuat perbedaan antara kondisi normal.,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,417,54-1-80,Objektif harus pergi memeriksa psikiater terdekat.,0,0,0,0,1,0,0,0,0,0,0,0,0
+418,418,54-1-172,Wawancara pemeriksaan fisik seorang dokter memberinya nasihat pengobatan terbaik,0,0,0,0,0,1,0,0,0,1,0,0,0
+419,419,43-1-0,"Tenang, berkumpul, sulit untuk bersosialisasi, sering dianggap aneh menjadi anak kecil.",0,0,0,1,0,1,0,0,0,0,0,0,0
+420,420,43-1-317,autistik spektrum gangguan gangguan berbagai keluhan perhatian defisit gangguan hiperaktif adhd melakukan gangguan penyakit fobia sosial schzoafective disorder,0,0,1,0,0,0,0,0,0,0,0,0,0
+421,421,43-1-603,"Ini murni variasi alami dari perilaku alami, faktor genetik, kondisi psikis.",0,0,0,0,0,0,0,0,1,0,0,0,0
+422,422,34-1-0,"Halo, terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+423,423,33-1-0,"Halo, Dok, namanya Zaman Malaikat.",0,1,0,0,0,0,0,1,0,0,0,0,0
+424,424,33-1-41,gejala adhd autisme,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,425,33-1-95,"Membaca artikel seperti itu, berbulan-bulan orang tua normal, beberapa gejala autisme.",0,0,0,1,1,0,1,0,0,0,1,0,0
+426,426,33-1-809,"Terima kasih, Dok.",0,0,0,0,0,0,0,0,0,0,0,1,0
+427,427,21-1-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+428,428,19-1-0,Keluhan alami akibat sindrom wisata gangguan kecemasan,0,0,1,0,0,0,0,0,1,0,0,0,0
+429,429,19-1-122,Advokat dokter apos; s psikiater memeriksa penyebab alami terapi sesuai dengan penyebab kegiatan produktif,0,0,0,0,1,1,0,0,0,1,0,0,0
+430,430,13-1-0,Keluhan alam dianggap sepele untuk mengganggu kegiatan produktif kehidupan,0,0,0,0,0,1,0,0,0,0,0,0,0
+431,431,13-1-132,Dimana kesulitan preordinasi prioritas fokus sulit untuk memiliki pasangan seperti kebiasaan memindahkan gangguan tubuh adhd attentia defixactivity disorder karena kelainan genetik struktur otak anak-anak dewasa,0,0,1,1,0,0,0,0,1,0,0,0,0
+432,432,12-1-0,"Halo, doc.",0,0,0,0,0,0,0,1,0,0,0,0,0
+433,433,12-1-41,"terkadang aku tidak bekerja kadang-kadang aku lupa tentang tangan ke tangan, dan aku bermimpi tentang berhenti itu sulit untuk melawan",0,0,0,1,0,0,0,0,0,0,0,0,0
+434,434,12-1-252,Kupikir gejala adhd tidak jelas.,0,0,1,0,0,0,0,0,0,0,0,0,0
+435,435,12-1-295,Ini membingungkan untuk memikirkan psikiater.,0,0,0,0,0,0,1,0,0,0,0,0,0
+436,436,11-1-0,informasi,0,0,0,0,0,0,0,0,0,0,0,1,0
+437,437,10-1-0,"Makan, sebutkan saja, jangan konsumsi.",0,0,0,0,1,0,0,0,0,1,1,0,0
+438,438,10-1-229,Aku ragu itu salahnya dokter memperlakukan dia dengan pasti.,0,0,0,0,1,0,0,0,0,0,0,0,0
+439,439,8-1-0,Seorang pria awam dipanggil dalam diagnosis adhd Dokter didiagnosis dengan obat psikoterapi.,0,0,0,0,1,0,0,0,0,1,1,0,0
+440,440,8-1-196,makanan yang disebutkan di atas sudah disusunkan karena susu susu yang dicampurkan dengan kalori ya,0,0,0,0,1,1,0,0,0,0,1,0,0
+441,441,5-1-0,perhatian yang besar untuk itu hiperaktivitas tidak bisa diatur salah pengembangan operasi perangkat operasi yang salah perangkat anak-anak mengembangkan problems keras focusablefocusasactivisty bergerak cepat,0,0,1,1,0,0,0,0,0,0,0,0,0
+442,442,5-1-209,Adhd penyebab penelitian memperlihatkan faktor - faktor yang meningkatkan risiko terkena addd mencakup faktor - faktor genetis lingkungan yang berkaitan dengan pola aliran listrik.,0,0,1,0,0,0,0,0,1,0,0,0,0
+443,443,5-1-479,Pertimbangkan fluktuasi hiperaktif yang disebabkan oleh gula gula gula sugar flare terbukti.,0,0,0,0,0,0,0,0,1,0,1,0,0
+444,444,4-1-0,"Halo, selamat siang.",0,0,0,0,0,0,0,1,0,0,0,0,0
+445,445,3-1-0,"Halo, selamat siang.",0,0,0,0,0,0,0,1,0,0,0,0,0
+446,446,2-1-0,Addid menjalankan terapi. obat stimulan diresepkan. adhds Physier tidak mengkonsumsi makanan yang mengandung bahan pengawet gula gluten.,0,0,1,0,1,1,1,1,0,0,1,0,0
+447,447,2-1-427,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+448,448,141-3-0,Hallo-dook suasana hati yang aneh kadang-kadang sedih menangis bahagia menyebabkan menangis bahagia,0,0,0,0,0,0,0,1,0,0,0,0,0
+449,449,141-3-227,Perubahan suasana hati yang menyedihkan.,0,0,0,1,0,0,0,0,0,0,0,0,0
+450,450,132-3-0,faktor keturunan genetik,0,0,0,0,0,0,0,0,1,0,0,0,0
+451,451,820-3-0,Dari Theresia,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,452,819-3-0,Menunggu konsultasi dokter untuk mencoba memperbaiki komunikasi suami.,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,453,818-3-0,Druphono,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,454,817-3-0,Kendalikan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,455,601-3-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+456,456,600-3-0,membaca keluhan seorang mahasiswa karena gangguan dilexianya karena gangguan adhd belajar kelainan komunikasi autisme memastikan orang tuanya apos; gangguan mahasiswa alami menyarankan dokternya untuk belajar,0,0,1,0,1,0,1,0,1,0,0,0,0
+457,457,599-3-0,Gangguan anak-anak pada dasarnya adalah keahlian intelijen tingkat tinggi gangguan disleksia yang berlebihan dalam mendukung terapi membantu mereka belajar.,1,0,1,0,1,1,0,0,0,0,0,0,0
+458,458,598-3-0,menghindari kegiatan membaca yang saling berhubungan,0,0,0,1,0,0,0,0,0,0,0,0,0
+459,459,597-3-0,Aku mengalami kesulitan mengeja.,0,0,0,1,0,0,0,0,0,0,0,0,0
+460,460,596-3-0,limitation repeats akrab kalimat,0,0,0,1,0,0,0,0,0,0,0,0,0
+461,461,595-3-0,Sulit untuk mengatakan apa yang diucapkan.,0,0,0,1,0,0,0,0,0,0,0,0,0
+462,462,594-3-0,kesulitan kalimat,0,0,0,1,0,0,0,0,0,0,0,0,0
+463,463,593-3-0,Sulit untuk mengumpulkan.,0,0,0,1,0,0,0,0,0,0,0,0,0
+464,464,592-3-0,Sulit untuk memahami apa yang dia dengar.,0,0,0,1,0,0,0,0,0,0,0,0,0
+465,465,591-3-0,Keterampilan membaca ada di tangan seorang anak seusianya.,0,0,0,1,0,0,0,0,0,0,0,0,0
+466,466,590-3-0,Gejala anak sekolah,1,0,0,0,0,0,0,0,0,0,0,0,0
+467,467,589-3-0,"Disleksia itu salah, gangguan belajar, gangguan membaca.",0,0,1,1,0,0,0,0,1,0,0,0,0
+468,468,588-3-0,"Selamat pagi, Najmi./ Terima kasih./ Ya, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+469,469,587-3-0,"Terima kasih, Dok.",0,0,0,0,0,0,0,0,0,0,0,1,0
+470,470,586-3-0,"Selamat pagi, Dok, masalah, fokus anak-anak.",1,0,1,1,0,0,1,1,0,0,0,0,0
+471,471,586-3-119,memiliki siswa usia orang tua informasi siswa guru informasi salah informasi berarti anak mengalami hambatan belajar yang dipilih,1,1,1,0,0,0,0,0,0,0,0,0,0
+472,472,586-3-314,Perhatikan jarak perhatian rendah-fokus anak mudah teralihkan,1,0,0,1,0,0,0,0,0,0,0,0,0
+473,473,586-3-407,misalnya baca iqro masalah fokus baca font iqro arah,0,0,0,1,0,0,0,0,0,0,0,0,0
+474,474,586-3-582,"Temannya dekat, lanjutkan membaca, qro ingin berbicara dengan temannya.",0,0,0,0,0,0,0,0,0,0,0,0,0
+475,475,586-3-701,Kegiatan kelas senang berjalan di area kelas sementara teman-teman mereka duduk mendengarkan guru melakukan hal mereka,0,0,0,1,0,0,0,0,0,0,0,0,0
+476,476,585-3-0,menangani usia disleksia,1,1,1,0,0,0,0,0,0,0,0,0,0
+477,477,584-3-0,Mari kita berharap informasi itu berguna.,0,0,0,0,0,0,0,0,0,0,0,1,0
+478,478,584-3-36,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+479,479,583-3-0,"Anak itu tidak tertarik pada saturasi topik tersebut, jadi ia merasa hal itu menarik.",1,0,0,0,0,0,0,0,0,0,0,0,0
+480,480,583-3-116,memiliki keraguannya untuk berkonsultasi dengan psikolog anak,0,0,0,0,1,0,0,0,0,1,0,0,0
+481,481,583-3-228,Diagnosa metode dokter yang lurus membantu mengendalikan perhatian anak,0,0,0,0,0,1,0,0,0,0,0,0,0
+482,482,582-3-0,Runut sistematis,0,0,0,1,0,0,0,0,0,0,0,0,0
+483,483,581-3-0,"Hentikan percakapannya, bicaralah, Tertawalah.",0,0,0,1,0,0,0,0,0,0,0,0,0
+484,484,580-3-0,bergerak anggota badan berulang-ulang,0,0,0,1,0,0,0,0,0,0,0,0,0
+485,485,579-3-0,Moving running jump jump climb,0,0,0,1,0,0,0,0,0,0,0,0,0
+486,486,578-3-0,perilaku impulsif hiperaktif,0,0,0,1,0,0,0,0,0,0,0,0,0
+487,487,577-3-0,menyukai kegiatan membutuhkan perhatian istilah.,0,0,0,1,0,0,0,0,0,0,0,0,0
+488,488,576-3-0,ikuti instruksi,0,0,0,1,0,0,0,0,0,0,0,0,0
+489,489,575-3-0,barang yang hilang sembarangan,0,0,0,1,0,0,0,0,0,0,0,0,0
+490,490,574-3-0,mendengarkan orang bicara,0,0,0,1,0,0,0,0,0,0,0,0,0
+491,491,573-3-0,Sulit untuk berkonsentrasi.,0,0,0,1,0,0,0,0,0,0,0,0,0
+492,492,572-3-0,gejala sulit untuk fokus pada,0,0,0,1,0,0,0,0,0,0,0,0,0
+493,493,571-3-0,Kondisi psikologis Adhd ditandai perilaku hiperaktif impulsif sulit untuk fokus pada.,0,0,1,1,0,0,0,0,0,0,0,0,0
+494,494,571-3-134,Gejala balita,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,495,571-3-175,gejalanya perlahan-lahan signifikan anak-anak pergi ke sekolah,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,496,571-3-243,menentukan diagnosis adhd mudah,0,0,1,0,0,1,0,0,0,0,0,0,0
+497,497,571-3-285,Dibutuhkan sesi untuk wawancara konseling kejiwaan untuk menentukan diagnosis.,0,0,0,0,1,0,0,0,0,0,0,0,0
+498,498,570-3-0,"Halo, Aria./ Terima kasih.",0,0,0,0,0,0,0,1,0,0,0,0,0
+499,499,569-3-0,"Selamat siang, Dokter, usiamu telah memasuki sekolahmu.",1,1,0,1,0,0,0,1,0,0,0,0,0
+500,500,569-3-149,Belajar klasik itu menarik. dia pikir lebih mungkin untuk melihatnya pergi duduk.,0,0,0,1,0,0,0,0,0,0,0,0,0
+501,501,569-3-271,Belajar. / Kedua gurunya sedang belajar.,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,502,569-3-365,Dok adhd anak,1,0,1,0,0,0,1,0,0,0,0,0,0
+503,503,569-3-401,penanganan dok anak,0,0,1,0,0,0,1,0,0,0,0,0,0
+504,504,569-3-452,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+505,505,568-3-0,deskripsi anak adhd,1,0,1,0,0,0,0,0,0,0,0,0,0
+506,506,567-3-0,Kuharap itu sepadan.,0,0,0,0,0,0,0,0,0,0,0,1,0
+507,507,566-3-0,anak terkait dengan tindakan kekerasan,1,0,0,1,0,0,0,0,0,0,0,0,0
+508,508,566-3-53,lihat salinan anak itu pukul dia ya seperti anak di rumah ini jaga baik-baik,1,0,0,0,0,0,0,0,1,0,0,0,0
+509,509,566-3-243,"Ya, itulah yang ini adalah tentang.",0,0,0,0,0,0,0,0,0,0,0,0,0
+510,510,566-3-273,solusi untuk stimulasi contoh anak,1,0,0,0,1,0,0,0,0,0,0,0,0
+511,511,566-3-356,Dia punya rasa bagaimana menyentuh saudaranya.,1,0,0,0,1,0,0,0,0,1,0,0,0
+512,512,566-3-533,Mencoba untuk bertindak seperti anak kecil berkonsultasi dengan psikolog.,1,0,0,0,1,0,0,0,0,0,0,0,0
+513,513,566-3-639,Pemeriksaan psikolog menilai tanda adhd anak,1,0,1,0,0,1,0,0,0,0,0,0,0
+514,514,565-3-0,hentikan tvdgetboy,1,0,0,0,1,0,0,0,0,0,0,0,0
+515,515,565-3-65,suami rumah bahasa anak-anak anggota keluarga,0,0,0,0,1,0,0,0,0,0,0,0,0
+516,516,565-3-176,diduga komunikasi anak yang aktif,1,0,0,0,1,0,0,0,0,0,0,0,0
+517,517,565-3-236,Kalimat itu berbicara.,0,0,0,0,1,0,0,0,0,0,0,0,0
+518,518,565-3-291,sama-sama ngomong baca buku cerita anak-anak,1,0,0,0,1,0,0,0,0,0,0,0,0
+519,519,565-3-356,meningkatkan kosakata anak,1,0,0,0,0,1,0,0,0,0,0,0,0
+520,520,565-3-413,Lupakan anak memuji hukuman anak,1,0,0,0,1,0,0,0,0,0,0,0,1
+521,521,565-3-535,"tegurlah anak - anak yang berupaya membuat nada, minta anak berbicara dengan nada lembut.",1,0,0,0,1,0,0,0,0,0,0,0,1
+522,522,565-3-718,marah pada anak-anak yang trauma berbicara tentang penyebab keterlambatan perkembangan pidato anak,1,0,0,0,1,1,0,0,0,0,0,0,0
+523,523,564-3-0,Mengapa Anda tidak mengambil anak berkonsultasi dokter anak karena suatu alasan?,1,0,0,0,1,1,0,0,0,0,0,0,0
+524,524,563-3-3,"Setiap hari, orang tua menggunakan bahasa anak dengan cara yang salah berkomunikasi, dan terbiasa dengan peralatan TV.",0,0,0,0,0,0,0,0,1,0,0,0,0
+525,525,562-3-3,autisme,0,0,1,0,0,0,0,0,0,0,0,0,0
+526,526,561-3-3,adhd perhatian spesifik gangguan hiperaktivitas,0,0,1,0,0,0,0,0,0,0,0,0,0
+527,527,560-3-3,Rongga mulut yang cacat lidah bibir gigi langit,0,0,0,0,0,0,0,0,1,0,0,0,0
+528,528,559-3-3,Gangguan pendengaran,0,0,0,0,0,0,0,0,1,0,0,0,0
+529,529,558-3-3,gangguan bahasa,0,0,0,0,0,0,0,0,1,0,0,0,0
+530,530,557-3-3,gangguan saraf otak pusat berbicara penyakit motorik oral cerebral lumpuh,0,0,0,0,0,0,0,0,1,0,0,0,0
+531,531,556-3-0,Penundaan dalam pengembangan anak dicari untuk penyebabnya,1,0,0,0,1,0,0,0,0,0,0,0,0
+532,532,556-3-75,Menghadapi penyebab keterlambatan,0,0,0,0,0,1,0,0,0,0,0,0,0
+533,533,556-3-176,Karena keterlambatan dalam pembicaraan anak.,1,0,0,0,0,0,0,0,0,0,0,0,0
+534,534,555-3-0,"Terima kasih, Dr. Com.",0,0,0,0,0,0,0,1,0,0,0,0,0
+535,535,554-3-0,Hari Doc Lilys memiliki balita dia berbicara seperti dia masih kecil dia adalah bayi berusia satu bulan,1,1,0,1,0,0,1,1,1,0,0,0,0
+536,536,553-3-0,Mendidik anak-anak berbicara seperti memukul,1,0,0,1,0,0,1,0,0,0,0,0,0
+537,537,552-3-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+538,538,551-3-0,informasi,0,0,0,0,0,0,0,0,0,0,0,1,0
+539,539,550-3-0,mengevaluasi kebiasaan anak - anak membatasi kebiasaan televisi monoton,1,0,0,0,0,0,0,0,0,0,0,0,0
+540,540,550-3-123,Anak-anak menemukan pengalaman tumbuh dewasa.,1,0,0,0,1,1,0,0,0,0,0,0,0
+541,541,549-3-0,Aku takut menumbuhkan bunga anak evaluasi optimal berkonsultasi langsung dengan dokter anak.,1,0,0,0,1,1,0,0,0,0,0,0,0
+542,542,549-3-212,Seorang dokter yang terkait dengan perilaku seorang anak,1,0,0,0,1,0,0,0,0,0,0,0,0
+543,543,549-3-295,Hasil evaluasi anak sang dokter adalah indikasi yang masuk akal tentang kekhawatiran.,1,0,0,0,0,0,0,0,0,0,0,0,0
+544,544,549-3-433,"Para dokter yang ditemukan terkait dengan risiko berkembangnya bunga anak, dokter anak-anak mengawasi evaluasi periodik si anak.",1,0,0,0,0,1,0,0,0,1,0,0,0
+545,545,549-3-606,Terus dengan rencana dokter perawatan untuk mendukung pertumbuhan sosialisasi anak-anak,1,0,0,0,1,0,0,0,0,0,0,0,0
+546,546,548-3-0,Memampilkan perilaku televisi,0,0,0,1,0,0,0,0,0,0,0,0,0
+547,547,547-3-0,Perkembangan otot optimal dari anak yang duduk jarang tampil,1,0,0,1,0,0,0,0,1,0,0,0,0
+548,548,546-3-0,"Sangat mudah untuk menangis, TV dilarang untuk tidur.",0,0,0,1,0,0,0,0,0,0,0,0,0
+549,549,545-3-0,Anak - anak mudah takut bertemu dengan orang yang jarang bersosialisasi,0,0,0,1,0,0,0,0,1,0,0,0,0
+550,550,544-3-0,alat bantu anak-anak mengganggu acara TV anak-anak berbicara memainkan peran orang tua keluarga,1,0,0,1,0,0,0,0,1,0,0,0,0
+551,551,543-3-0,Anak laki-laki suka TV TV menyebabkan adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+552,552,543-3-102,adhd adalah karena gangguan saraf pusat otak anak,1,0,1,0,0,0,0,0,1,0,0,0,0
+553,553,543-3-196,"Anak-anak digunakan untuk bermain TV lingkungan, mempertaruhkan gangguan komunikasi, keluarga dari orang-orang di sekitar mereka.",1,0,1,0,0,0,0,0,1,0,0,0,0
+554,554,543-3-373,Contoh,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,555,542-3-0,Keracunan anak,1,0,0,0,0,0,0,0,1,0,0,0,0
+556,556,541-3-0,"penggunaan narkotika, alkohol, psikotropika, kecanduan zat alkohol merokok kehamilan",0,0,0,0,0,0,0,0,1,0,0,0,0
+557,557,540-3-0,pusat gangguan sistem saraf,0,0,0,0,0,0,0,0,1,0,0,0,0
+558,558,539-3-0,lahir,0,0,0,0,0,0,0,0,1,0,0,0,0
+559,559,538-3-0,faktor genetik,0,0,0,0,0,0,0,0,1,0,0,0,0
+560,560,537-3-0,adhd menyebabkan,0,0,1,0,0,0,0,0,0,0,0,0,0
+561,561,536-3-0,spesialis regular child tanda evaluasi langsung,0,0,0,0,1,0,0,0,0,0,0,0,0
+562,562,535-3-0,tugas selesai,0,0,0,1,0,0,0,0,0,0,0,0,0
+563,563,534-3-0,fokus,0,0,0,1,0,0,0,0,0,0,0,0,0
+564,564,533-3-0,memindahkan konstanta,0,0,0,1,0,0,0,0,0,0,0,0,0
+565,565,532-3-0,Mainkan dengan mainan,0,0,0,1,0,0,0,0,0,0,0,0,0
+566,566,531-3-0,Suara mengganggu,0,0,0,1,0,0,0,0,0,0,0,0,0
+567,567,530-3-0,"Duduk tenang, makan, baca buku.",0,0,0,1,0,0,0,0,0,0,0,0,0
+568,568,529-3-0,Anak itu menggeliat.,1,0,0,1,0,0,0,0,0,0,0,0,0
+569,569,528-3-0,"Maafkan aku, aku sangat gugup, nak.",1,0,0,1,0,0,0,0,0,0,0,0,0
+570,570,527-3-0,dhd anak laki-laki tua tvdalh,1,1,1,0,0,0,0,0,0,0,0,0,0
+571,571,527-3-134,Perhatian Adhd kurang memadai gangguan hiperactivitu memicu anak-anak mengalami kesulitan fokus pada perilaku impulsif hiperaktif mereka. kondisi mempengaruhi hubungan sosial anak dengan prestasi sekolah.,1,0,1,1,0,0,0,0,0,0,0,0,0
+572,572,527-3-442,Pasien Adhd mengalami gejala usia seorang anak,0,1,1,0,0,0,0,0,0,0,0,0,0
+573,573,527-3-562,"Gejala - gejala usia lanjut seorang anak sulit untuk dijelaskan, dan perlu dievaluasi tentang gangguan anak.",1,1,1,0,1,1,0,0,0,0,0,0,1
+574,574,527-3-739,gejala anak - anak usia sekolah,1,1,0,0,0,0,0,0,0,0,0,0,1
+575,575,526-3-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+576,576,525-3-0,"Halo, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+577,577,524-3-0,Imunisasi masukan dokter yang berkaitan dengan takut menonton TV menyebabkan anak - anak mengganggu usia anak - anak mereka,1,1,1,0,0,0,1,0,0,0,0,0,0
+578,578,523-3-0,"Halo, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+579,579,522-3-0,Menonton TV anak laki-laki tua menyebabkan adhd,1,1,1,0,0,0,1,0,0,0,0,0,0
+580,580,521-3-0,Tolong bantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+581,581,520-3-0,Keraguan mendapatkan seorang anak diperiksa oleh dokter anak di dekatnya.,1,0,0,0,0,0,0,0,0,0,0,0,0
+582,582,520-3-103,deteksi gejala samar,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,583,520-3-179,Pemberian yang dilakukan pada saat ini mendatangkan perubahan besar pada perkembangan seorang anak,0,0,0,0,1,1,0,0,0,0,0,0,0
+584,584,519-3-0,Evaluasi simptom memonitor anak pengembangan rutin,1,0,0,0,1,0,0,0,0,0,0,0,0
+585,585,519-3-119,"Karena gangguan perawatan anak, orang dewasa memiliki efek memicu lingkungan antisosial di sekitar mereka.",1,0,0,0,0,0,0,0,0,0,0,0,0
+586,586,518-3-0,Evaluasi yang cermat tentang kondisi sang anak,0,0,0,0,1,1,0,0,0,0,0,0,0
+587,587,518-3-73,Gangguan terdeteksi dengan cepat terapi pengembangan anak dipulihkan optimal,1,0,0,0,0,1,0,0,0,1,0,0,0
+588,588,517-3-0,Anak ini memiliki kecenderungan terhadap kelainan perilaku adhd gangguan evaluasi langsung spesialis pediatrikia memiliki keahlian untuk menumbuhkan bunga anak.,1,0,1,0,1,1,0,0,0,0,0,0,0
+589,589,516-3-0,Adhd gejala. bayi anak-anak sulit untuk makan. sulit untuk tetap diam.,0,0,1,1,0,0,0,0,0,0,0,0,1
+590,590,516-3-143,"membesarkan anak - anak yang lebih tua cenderung bersikap dingin, sulit untuk berkonsentrasi, mudah menjadi resah.",1,0,0,1,0,0,0,0,0,0,0,0,0
+591,591,515-3-0,perhatian adhd spesifik gangguan hiperaktivitas kesalahan perkembangan anak gangguan,1,0,1,0,0,0,0,0,0,0,0,0,0
+592,592,515-3-103,sebagai nama gangguannya menyebabkan anak itu menjadi tidak disukai perilakunya menjadi lebih aktif,1,0,0,1,0,0,0,0,0,0,0,0,0
+593,593,515-3-261,Addhd gangguan kejiwaan adalah penyebab kompleks,0,0,1,0,0,0,0,0,0,0,0,0,0
+594,594,515-3-376,Ketidaknormalan sering dialami oleh anak-anak di bawah,1,1,0,0,0,0,0,0,0,0,0,0,0
+595,595,514-3-0,"Terima kasih, layanan konsultasi dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+596,596,513-3-0,Halo.,0,0,0,0,0,0,0,1,0,0,0,0,0
+597,597,512-3-0,"Selamat malam, Dok, anak-anak berusia tiga bulan, anak hiperaktif yang impulsif.",1,1,1,1,0,0,0,1,0,0,0,0,1
+598,598,512-3-169,"Berdiri tegak, goyangkan, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak.",0,0,1,1,0,0,1,0,0,0,0,0,0
+599,599,512-3-475,"Dokter bingung./ Terima kasih, Dok.",0,0,0,0,0,0,0,0,0,0,0,1,0
+600,600,511-3-0,Anak-anak usia menderita gejala adhd.,1,1,1,0,0,0,1,0,0,0,0,0,0
+601,601,510-3-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+602,602,509-3-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+603,603,508-3-0,informasi,0,0,0,0,0,0,0,0,0,0,0,1,0
+604,604,507-3-0,Pemeriksaan seorang dokter seawal kemampuan bahasa seorang anak.,0,0,0,0,1,0,0,0,0,0,0,0,0
+605,605,507-3-118,Terapi medis yang biasanya mengurangi keefektifan usia sekolah,1,0,0,0,0,0,0,0,0,0,0,0,0
+606,606,507-3-277,ubah anak berkonsultasi dengan dokter anak dengan penanganan bantuan,1,0,0,0,1,1,0,0,0,0,0,0,0
+607,607,506-3-0,membaca buku cerita menceritakan sebuah buku dongeng dengan gambar yang menarik menarik menggambarkan keterlambatan yang salah pada seorang anak.,1,0,0,0,1,1,0,0,0,0,0,0,0
+608,608,506-3-217,"Meningkatkan kekuatan imajinasi menambah kosa kata anak, dongeng menambah kualitas menjadi orangtua.",1,0,0,0,0,1,0,0,0,0,0,0,0
+609,609,505-3-0,belajar menyanyi menciptakan suasana bernyanyi sebagai santai sebagai lagu anak memiliki lagu sederhana,0,0,0,0,1,0,0,0,0,0,0,0,0
+610,610,505-3-149,Tarian anak itu menarik.,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,611,504-3-0,Menghasut pembicara yang salah efektif dalam mengatasi keterlambatan seorang anak,0,0,0,0,1,1,0,0,0,0,0,0,0
+612,612,503-3-0,membanding - bandingkan keterlambatan bicara anak menangani penundaan perangkap pada anak,1,0,0,0,0,0,0,0,0,0,0,0,0
+613,613,502-3-0,Anak-anak autisme menderita kelainan pola pola perilaku komunikasi.,1,0,1,1,0,0,0,0,0,0,0,0,0
+614,614,502-3-223,"Itu membuatnya sedih, stres, stres yang menyedihkan.",1,0,1,1,1,0,0,0,0,0,0,0,0
+615,615,502-3-376,"Pengobatannya mengurangi kesulitan komunikasi, penyakitnya mempelajari kemampuannya untuk memiliki pengobatan positif untuk autisme.",0,0,1,0,0,1,0,0,0,0,0,0,0
+616,616,502-3-628,Sebuah metode terapi membantu seorang anak meningkatkan kesanggupannya untuk berkomunikasi dengan interaksi belajar,0,0,0,0,1,1,0,0,0,0,0,0,0
+617,617,501-3-0,"Sulit untuk memahami perasaan orang, mengekspresikan perasaan mereka.",0,0,0,1,0,0,0,0,0,0,0,0,0
+618,618,500-3-0,pengulangan frasa,0,0,0,1,0,0,0,0,0,0,0,0,0
+619,619,499-3-0,Sulit untuk membuat orang berbicara.,0,0,0,1,0,0,0,0,0,0,0,0,0
+620,620,498-3-0,"Dia terlambat, dia terlambat.",0,0,0,1,0,0,0,0,0,0,0,0,0
+621,621,497-3-0,hindari kontak mata,0,0,0,1,0,0,0,0,0,0,0,0,0
+622,622,496-3-0,Berbicara tentang nada suara robot.,0,0,0,1,0,0,0,0,0,0,0,0,0
+623,623,495-3-0,merespons panggilan,0,0,0,1,0,0,0,0,0,0,0,0,0
+624,624,494-3-0,♫ Jabbering mengoceh humm cooing baby ♫,0,0,0,1,0,0,0,0,0,0,0,0,1
+625,625,493-3-0,Gejala autisme muncul pada berbagai anak.,0,0,1,0,0,0,0,0,0,0,0,0,0
+626,626,493-3-52,Integrasi kemampuannya untuk berinteraksi dalam komunikasi orang-orang,0,0,0,1,0,0,0,0,0,0,0,0,0
+627,627,492-3-0,tanda-tanda seorang anak autis kontak mata bayi jarang. responsif. namanya disebut.,0,1,1,1,0,0,0,0,0,0,0,0,0
+628,628,492-3-214,Gejala autisme anak-anak mencapai usia autisme atau gangguan spektrum autitis gangguan perkembangan asd menyebabkan kemampuan komunikasi anak-anak terganggu,1,1,1,1,0,0,0,0,0,0,0,0,0
+629,629,492-3-467,Penyebab autisme,0,0,1,0,0,0,0,0,0,0,0,0,0
+630,630,491-3-0,"Tundaan bicara autistik dapat dimengerti, menunda bicara atau menunda berbicara, rangsangan anak dengan mudah mendeteksi penundaan adalah membandingkan kemampuan anak - anak pada usia mereka.",1,0,1,0,0,0,0,0,0,0,0,0,0
+631,631,491-3-334,"Tapi itu adalah permainan baru, usia standar anak, usia anak memiliki usia anak.",1,1,0,0,0,0,0,0,0,0,0,0,0
+632,632,491-3-662,membantu orang tua mengakui fase berbicara anak memiliki tabel usia berbicara Musti cooing anak belum cooing sospeeech penundaantuh,1,1,0,0,0,0,0,0,0,0,0,0,0
+633,633,491-3-871,Kebanyakan orang tua hanya setelah usia seorang anak membandingkan tetangga dari usia anak sendiri.,1,0,0,0,0,0,0,0,0,0,0,0,0
+634,634,491-3-1021,Bicarakan bagan pengembangan pidato usia,0,1,0,0,0,0,0,0,0,0,0,0,0
+635,635,491-3-1119,merespons faseoting orangtua anak-anak mummuing,1,0,0,0,0,0,0,0,0,0,0,0,0
+636,636,491-3-1297,Tahap imitasi usia seorang anak berarti usia anak memanggil ayah.,1,1,0,0,0,0,0,0,0,0,0,0,0
+637,637,491-3-1494,anak-anak perkembangan suku hari anak-anak terus bertambah umur,1,1,0,0,0,0,0,0,0,0,0,0,0
+638,638,491-3-1650,The kosa kata tumbuh lebih tua,0,1,0,0,0,0,0,0,0,0,0,0,0
+639,639,491-3-1772,Fase anak-anak memahami apa yang anak-anak katakan.,1,1,0,0,0,0,0,0,0,0,0,0,0
+640,640,491-3-1966,usia anak-anak mengalami penundaan,1,1,1,0,0,0,0,0,0,0,0,0,0
+641,641,491-3-2070,Ibu,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,642,490-3-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+643,643,489-3-0,"Halo, Elya.",0,0,0,0,0,0,0,1,0,0,0,0,0
+644,644,488-3-0,"Selamat siang, dok.",0,0,0,0,0,0,0,1,0,0,0,0,0
+645,645,488-3-11,"Anak bingung dari keterlambatan autis./ Ya, Dok.",1,0,1,0,0,0,1,0,0,0,0,0,0
+646,646,488-3-79,komunikasi non-verbal,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,647,488-3-137,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+648,648,487-3-0,Perbedaan anak-anak yang terlambat dalam berbicara autisme.,1,0,1,1,0,0,0,0,0,0,0,0,0
+649,649,486-3-0,memperkaya pemahaman membaca artikel adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+650,650,486-3-67,informasi,0,0,0,0,0,0,0,0,0,0,0,1,0
+651,651,486-3-97,"Tenang, tenang, tenang.",0,0,0,0,0,0,0,0,0,0,0,1,0
+652,652,486-3-129,Kuharap itu sepadan.,0,0,0,0,0,0,0,0,0,0,0,1,0
+653,653,485-3-0,Sayang sekali bahwa batas akses adalah penilaian langsung dari anak addhd tersebut.,1,0,1,0,0,0,0,0,0,0,0,0,0
+654,654,485-3-144,Seorang anak dengan gejala diarahkan kecurigaan adhd menyarankan berkonsultasi dengan dokter yang berspesialisasi dalam psikiatri.,1,0,1,0,1,0,0,0,0,0,0,0,0
+655,655,485-3-322,Masalah keluarga adalah masalah perilaku anak dan anamenesis.,0,0,0,0,0,1,0,0,0,0,0,0,0
+656,656,485-3-487,Pemeriksaan kandungan fisi komprehensif sesuai dengan indikasi yang ditemukan,0,0,0,0,1,0,0,0,0,0,0,0,0
+657,657,485-3-610,Adhd pengobatan dokter pendekatan pendidikan pendekatan perilaku obat-addict,0,0,1,0,0,1,0,0,0,0,1,0,0
+658,658,484-3-0,gejala usia adhd,0,1,1,0,0,0,0,0,0,0,0,0,0
+659,659,484-3-66,usia perilaku anak terstruktur gejala,1,1,0,0,0,0,0,0,0,0,0,0,0
+660,660,484-3-156,"Orang tua menyadari anak-anak mereka berada di sekolah, duduk dengan tenang, belajar untuk berjalan di kelas.",1,0,0,1,0,0,0,0,0,0,0,0,0
+661,661,483-3-0,contoh kegagalan perhatian detail perhatian sulit untuk menjaga perhatian,0,0,0,1,0,0,0,0,0,0,0,0,0
+662,662,483-3-323,Gejalanya setidaknya,0,0,0,0,0,0,0,0,0,0,0,0,1
+663,663,482-3-0,"Sebagai contoh, gejala hiperaktivitas impulsif gelisah memindahkan kaki tangan Anda duduk, meninggalkan kelas.",0,0,0,1,0,0,0,0,0,0,0,0,0
+664,664,481-3-0,tambah tipe kombinasi,0,0,1,1,0,0,0,0,0,0,0,0,0
+665,665,480-3-0,adhd gejala dominan kesulitan berfokus pada ketidakmampuan,0,0,1,1,0,0,0,0,0,0,0,0,0
+666,666,479-3-0,gejala adhd adalah hiperaktivitas dominan impulsitas,0,0,1,1,0,0,0,0,0,0,0,0,0
+667,667,478-3-0,tipe variasi adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+668,668,477-3-0,attention defisit hyperactivity disorder adhd disorder disorder character charater constantability to focus hyperactivity impectiveity,0,0,1,1,0,0,0,0,0,0,0,0,0
+669,669,477-3-217,Adhd menemukan laki-laki perempuan,0,0,1,0,0,0,0,0,0,0,0,0,0
+670,670,477-3-279,Multifaktor mempengaruhi adhd termasuk faktor genetik dalam struktur anatomi neurokimia otak,0,0,1,0,0,0,0,0,1,0,0,0,0
+671,671,414-3-0,Halo.,0,0,0,0,0,0,0,1,0,0,0,0,0
+672,672,414-3-6,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+673,673,414-3-66,memahami kekhawatiran merasa,0,0,0,0,0,0,0,1,0,0,0,0,0
+674,674,413-3-0,"Ide bagus, dia suka pindah, bicaralah.",1,1,0,1,0,0,1,1,0,0,0,1,1
+675,675,410-3-0,menangani usia anak adhd,1,1,1,0,0,0,0,0,0,0,0,0,0
+676,676,409-3-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+677,677,408-3-0,Pemeriksaan fisik fisik terhadap dokter anak psikiater diperlakukan sebagai adhd.,0,0,1,0,0,0,0,0,0,0,0,0,0
+678,678,408-3-115,Anak itu dibutuhkan.,1,0,0,0,0,0,0,0,0,0,0,0,0
+679,679,408-3-207,Memonitor usia anak mengalami gejala - gejala,1,0,0,0,1,0,0,0,0,1,0,0,1
+680,680,406-3-0,Terpapar racun lingkungan anak-anak.,0,0,0,0,0,0,0,0,1,0,0,0,1
+681,681,405-3-0,Larangan obat-obatan mengkonsumsi alkohol merokok kehamilan,0,0,0,0,0,0,0,0,1,0,0,0,1
+682,682,402-3-0,Bounty kerusakan otak.,0,0,0,0,0,0,0,0,1,0,0,0,1
+683,683,399-3-0,gangguan struktur fungsi otak,0,0,0,0,0,0,0,0,1,0,0,0,0
+684,684,397-3-0,lahir prematur,0,0,0,0,0,0,0,0,1,0,0,0,0
+685,685,396-3-0,faktor genetik,0,0,0,0,0,0,0,0,1,0,0,0,0
+686,686,395-3-0,Penyebab adhd berdasarkan faktor penelitian mempengaruhi anak-anak menderita gangguan,1,0,1,0,0,0,0,0,0,0,0,0,0
+687,687,393-3-0,sepertinya hiperaktif penolak jangka waktu serangan jutaan anak-anak presis,1,0,1,0,0,0,0,0,0,0,0,0,1
+688,688,393-3-138,gejala yang disebabkan oleh gangguan sulit untuk berkonsentrasi hiperaktif impulsif,0,0,0,1,0,0,0,0,0,0,0,0,0
+689,689,393-3-240,Gejala muncul. anak Adhd cenderung rendah. sulit untuk berteman.,1,0,1,1,0,0,0,0,0,0,0,0,1
+690,690,381-3-0,Halo.,0,0,0,0,0,0,0,1,0,0,0,0,0
+691,691,380-3-0,Adik pacar memiliki breakdown adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+692,692,380-3-41,Pacar seorang anak memiliki risiko mengalami adhd.,0,0,1,0,0,0,1,0,0,0,0,0,0
+693,693,379-3-0,Penanganan Adhd menyebabkan,0,0,1,0,0,0,0,0,0,0,0,0,0
+694,694,378-3-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+695,695,377-3-0,Wabah kovid mereda pengobatan optimal memeriksa anak-anak dari dokter anak secara langsung.,1,0,0,0,1,0,0,0,0,1,0,0,0
+696,696,376-3-0,"Anak manapun, saran dokter.",0,0,0,0,1,0,0,0,0,1,0,0,0
+697,697,373-3-0,Daerah kompresi hangat hidung bibirnya bergerak gerak relaks,0,0,0,1,1,1,0,0,0,0,0,0,0
+698,698,372-3-0,gadget boy,1,0,0,0,0,0,0,0,0,0,1,0,0
+699,699,371-3-0,Dengan anak - anak yang memenuhi kebutuhan anak - anak pada usia mereka,1,0,0,0,0,0,0,0,0,0,0,0,0
+700,700,370-3-0,"Membantu anak-anak bersantai, mengajarinya bagaimana mengendalikan emosinya, takut akan kesedihan.",0,0,0,1,0,0,0,0,0,0,0,0,0
+701,701,369-3-0,Membantu menyiapkan tempat tidur bangun-up untuk anak biasa seusianya.,1,0,0,0,1,1,0,0,0,0,0,0,0
+702,702,368-3-0,Perlihatkan kepada anak - anak teman sebayanya caranya meniru dia,1,0,0,0,0,0,0,0,0,0,0,0,0
+703,703,367-3-0,"Gerakan anak itu berguna, mengganggu kontrol berulang-ulang.",1,0,0,0,1,1,0,0,0,0,0,0,0
+704,704,366-3-0,Kondisi anak-anak berbahaya.,1,0,0,0,0,0,0,0,0,0,0,0,0
+705,705,366-3-65,kondisi penanganan dokter,0,0,0,0,0,0,0,0,0,0,0,0,0
+706,706,366-3-159,Ideal untuk menentukan bahaya menangani kondisi yang melibatkan pemeriksaan langsung dokter,0,0,0,0,1,1,0,0,0,0,0,0,0
+707,707,366-3-346,Covid memperluas penyebaran pemeriksaan dokter darurat'kebaikan anak tertunda,1,0,0,0,0,0,0,0,0,0,0,0,0
+708,708,366-3-539,"Ya, kondisinya lebih baik, lakukanlah.",1,0,0,0,0,0,0,0,0,0,0,0,0
+709,709,365-3-0,"Misalnya, kondisi alami seorang anak muncul pada sindrom turette, gangguan saraf wajah kekurangan nutrisi neurotropika addtensi gangguan hiperaktivitas gangguan kelenjar parathyroid gangguan pasca-inflamasi luka kulit.",1,0,1,0,0,0,0,0,1,0,0,0,0
+710,710,364-3-0,Gerakan muncul sisi yang salah dari bibir mata hidung anak karena gangguan tic,0,0,1,1,0,0,0,0,0,0,0,0,0
+711,711,364-3-136,gangguan otot wajah mengalami kejang bergerak sadar sulit untuk mengontrol gerakan tidak disengaja,0,0,0,1,0,0,0,0,1,0,0,0,0
+712,712,364-3-299,"Alih - alih dewasa, anak - anak cenderung mengalami gangguan.",1,0,0,0,0,0,0,0,0,0,0,0,0
+713,713,364-3-377,Seorang ahli epidemiologi dengan kondisi anak laki-laki yang tepat memicu gangguan tic,0,0,1,0,0,0,0,0,0,0,0,0,0
+714,714,364-3-521,"Menurut para pakar, kondisi itu muncul sewaktu gangguan stres merusak efek samping perawatan mengendalikan gejala hiperaktif seorang anak",1,0,1,0,0,0,0,0,1,0,0,0,0
+715,715,363-3-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+716,716,362-3-0,"Halo, Jiya.",0,0,0,0,0,0,0,1,0,0,0,0,0
+717,717,361-3-0,Wajahnya berkedut ke kanan dari hidung bibirnya.,0,0,0,1,0,0,0,0,0,0,0,0,1
+718,718,361-3-122,Ini menggelitik wajahnya. gerakannya.,0,0,0,1,0,0,0,0,0,0,0,0,0
+719,719,360-3-0,memiliki anak laki-laki usia,1,1,0,0,0,0,0,0,0,0,0,0,0
+720,720,359-3-0,Assalamualaikum wr wb,0,0,0,0,0,0,0,1,0,0,0,0,0
+721,721,358-3-0,Gerakan muncul di daerah wajah anak,1,0,0,1,0,0,0,0,0,0,1,0,0
+722,722,357-3-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+723,723,356-3-0,Disarankan agar pemeriksaan seorang anak terhadap seorang dokter anak mendapati benjolan - benjolan parah anak itu menyebabkan dia muntah.,1,0,0,1,1,0,0,0,0,0,0,0,0
+724,724,356-3-271,pemeriksaan anak normal sulit untuk berbicara dengan pasangan sama berbahayanya dengan fokus pada aktivitas seperti itu,1,0,0,1,0,0,0,0,0,0,0,0,0
+725,725,355-3-0,"Aturlah barang-barang itu, anak itu aman sebagai contoh, dengan lapisan perabot busa tumpul khususnya jauh dari benda-benda berbahaya jangkauan anak mengikat furnitur untuk jatuh pada anak itu.",1,0,0,0,0,0,0,0,0,0,0,0,0
+726,726,354-3-0,Anak gadget adalah tontonan usianya.,1,0,0,0,0,0,0,0,0,0,0,0,0
+727,727,353-3-0,Dengan anak-anak yang aktif pada usia mereka,1,0,0,0,0,0,0,0,0,0,0,0,0
+728,728,352-3-0,Cobalah untuk membiarkan anak bermain pengawasan dewasa.,1,0,0,0,0,0,0,0,0,0,0,0,0
+729,729,351-3-0,Mintalah anak Anda untuk dengan mudah mengerti bahayanya mengulangi perbuatan para pendengar dan mengajar mereka untuk berkomunikasi.,1,0,0,0,1,1,0,0,0,0,0,0,0
+730,730,350-3-0,saran panik.,0,0,0,0,0,0,0,0,0,0,0,0,0
+731,731,350-3-36,circumvent anak apos; s kondisi,1,0,0,0,0,0,0,0,0,0,0,0,0
+732,732,349-3-0,Pengetahuan ekstrem seorang anak akan tindakan cenderung berbahaya baginya untuk memukul kepalanya pada benda anak-anak alami sering kali,1,0,0,1,0,0,0,0,1,0,0,0,0
+733,733,349-3-245,Anak itu memukul kepalanya dalam bentuk protesnya keinginan-Nya terpenuhi oleh mengamuk.,1,0,1,0,0,0,0,0,0,0,0,0,0
+734,734,349-3-359,"Dampak buruk, kondisi berbahaya.",0,0,0,0,0,0,0,0,0,0,0,0,0
+735,735,349-3-441,dampak keras melibatkan sisi tajam objek memicu efek negatif memar kulit pendarahan otak retak,0,0,0,0,0,0,0,0,0,0,0,0,0
+736,736,349-3-710,"Jarang memukul kepala seorang anak di alam untuk mengacu pada gangguan, misalnya autisme adhd kekurangan perhatian gangguan hiperaktivitas.",1,0,1,1,0,0,0,0,0,0,0,0,0
+737,737,348-3-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+738,738,347-3-0,Halo?,0,0,0,0,0,0,0,1,0,0,0,0,0
+739,739,346-3-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+740,740,345-3-0,kadang-kadang anak itu suka memukul kepalanya tembok yang keras juga pelan melewatinya,1,0,0,1,0,0,0,0,0,0,0,0,0
+741,741,345-3-110,"Kadang-kadang kepala, hati-hati rasa sakit.",0,0,0,1,0,0,0,0,0,0,0,0,0
+742,742,345-3-278,Kadang-kadang dia suka menggedor mulutnya lantai tubuh orang.,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,743,345-3-376,usia anak,1,1,0,0,0,0,0,0,0,0,0,0,0
+744,744,345-3-409,Jangan biarkan anak-anak khawatir tentang tindakan berbahaya,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,745,344-3-0,"Selamat siang, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+746,746,343-3-0,'Cause a baby's age is banging a wall head,1,1,0,1,0,0,0,0,0,0,0,0,0
+747,747,342-3-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+748,748,341-3-0,Periksa dengan putri dokter kondisinya dievaluasi secara mendalam karena penyebabnya.,1,0,0,0,1,1,0,0,0,0,0,0,0
+749,749,341-3-205,Dengan anak bermain pada kegiatan sehari-harinya.,0,0,0,0,1,0,0,0,0,0,0,0,0
+750,750,341-3-277,Kegiatan usia bosan,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,751,341-3-340,gadget boy,0,0,0,0,1,0,0,0,0,0,0,0,0
+752,752,341-3-378,"Pastikan anak-anak diawasi, orang dewasa diperbolehkan bermain.",0,0,0,0,1,0,0,0,0,0,0,0,0
+753,753,340-3-0,Pengobatan dokter kandungan tortikolisis seharusnya sulit bagi anak - anak untuk tetap tenang,1,0,0,1,0,0,0,0,0,0,0,0,0
+754,754,340-3-97,Keheningan yang sulit dari seorang anak menunjukkan kejeniusan hiperaktif seorang anak,1,0,1,0,0,0,0,0,0,0,0,0,0
+755,755,340-3-194,Sulit untuk tetap tenang murni karena anak-anak lelah menjelajahi lingkungan,1,0,0,1,0,0,0,0,0,0,0,0,0
+756,756,340-3-319,"Sulit untuk tetap tenang, anak yang nyaman, gatal yang lapar.",1,0,0,1,0,0,0,0,0,0,0,0,0
+757,757,339-3-0,Keracunan kondisi di mana otot leher terganggu kemiringan leher terhadap sisi tubuh yang salah,0,0,1,0,0,0,0,0,0,0,0,0,0
+758,758,339-3-144,Menginterupsi kondisi penampilan memicu rasa sakit membatasi kegiatan pasien,0,0,0,0,0,0,0,0,0,0,0,0,0
+759,759,339-3-244,Penyebab kelainan leher rahim adalah proses kelahiran faktor cedera genetik.,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,760,339-3-374,Fisioterapi periodik turut menangani kondisi,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,761,339-3-441,berat terapi modulasi obat,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,762,338-3-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+763,763,337-3-0,"Halo, Ibu.",0,0,0,0,0,0,0,1,0,0,0,0,0
+764,764,336-3-0,"Dokter, sulit untuk mendengar bagaimana menghadiri acara di luar pengaruh terapi fisioterapy.",1,1,1,1,0,0,1,0,0,0,0,0,1
+765,765,335-3-0,"Anak-anak mengalami kesulitan menjaga hiperaktif, kerumunan fisioterapi torticolysis.",1,0,0,1,0,0,0,0,0,0,0,0,1
+766,766,334-3-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+767,767,333-3-0,Suami adalah delusional.,0,0,0,0,0,0,0,0,0,0,0,0,0
+768,768,333-3-135,Berurusan dengan dokter apos; s evaluasi psikologi.,0,0,0,0,1,1,0,0,0,0,0,0,0
+769,769,333-3-263,Mencoba untuk mendapatkan suami untuk berkonsultasi dengan psikiater psikiater kondisi suami menentukan pengobatan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,770,333-3-490,gejala-gejala suami membahayakan orang-orang yang membunuh orang tolong bawa suami ke rumah sakit terdekat,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,771,332-3-0,Sangat mudah untuk mencurigai gejala adhd orang,0,0,1,0,0,0,0,0,0,0,0,0,0
+772,772,332-3-50,kondisi berusaha untuk menentukan keadaan normal kepercayaan salah delusi,0,0,1,0,0,0,0,0,0,0,0,0,0
+773,773,332-3-178,Sangat mudah untuk mencurigai orang memiliki kepercayaan ini adalah peristiwa yang menyenangkan kurangnya komunikasi perilaku suami mudah dicurigai,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,774,332-3-448,keadaan tempat tinggal kaham,0,0,0,0,0,0,0,0,0,0,0,0,0
+775,775,332-3-504,"Delusi kondisi si penderita memiliki kepercayaan yang berbeda, kenyataan bahwa si penderita percaya akan hal itu.",0,0,0,0,0,0,0,0,0,0,0,0,0
+776,776,332-3-647,"Ini contoh delusi dari penderita, orang-orang menyakiti orang-orang, mengejar korban mereka.",0,0,0,0,0,0,0,0,0,0,0,0,0
+777,777,332-3-960,Kondisi ini disebabkan oleh waham cemburu,0,0,0,0,0,0,0,0,0,0,0,0,0
+778,778,332-3-1036,Memiliki delusi marah mengalami halusinasi,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,779,332-3-1116,"Penyebab delusi stres, penyalahgunaan narkoba, skizofrenia alkohol ilegal.",0,0,0,0,0,0,0,0,0,0,0,0,0
+780,780,331-3-0,kurang perhatian gangguan hiperaktif adhd gangguan kesehatan mental sulit untuk berkonsentrasi pada memiliki perilaku impulsif aktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+781,781,331-3-219,Gejala - gejala anak - anak adhd yang sudah dewasa,0,0,1,0,0,0,0,0,0,0,0,0,0
+782,782,331-3-277,Gejalanya termasuk fokus dari perhatiannya mudah teralihkan sulit untuk mengikuti instruksi untuk berkonsentrasi secara ceroboh sulit untuk tetap diam.,0,0,0,1,0,0,0,0,0,0,0,0,0
+783,783,330-3-0,"Hello, oak suswanti terima kasih pertanyaannya",0,0,0,0,0,0,0,1,0,0,0,0,0
+784,784,329-3-0,nama dermaga malam oak suswanti,0,0,0,0,0,0,0,1,0,0,0,0,0
+785,785,329-3-33,proses penyaringan putra yang lanjut usia,0,1,0,0,0,0,0,0,0,0,0,0,0
+786,786,329-3-104,adhd mencurigakan,0,0,1,0,0,0,0,0,0,0,0,0,0
+787,787,329-3-126,Perjalanan proses penyaringan menemukan informasi tentang unsur-unsur genetik,0,0,0,0,0,0,0,0,1,0,0,0,0
+788,788,329-3-201,menyadari suami sulit untuk fokus,0,0,0,1,0,0,0,0,0,0,0,0,0
+789,789,329-3-244,Kecurigaan,0,0,0,0,0,0,0,0,0,0,0,0,0
+790,790,329-3-281,marah.,0,0,0,1,0,0,0,0,0,0,0,0,0
+791,791,329-3-295,Doc sifat orang dewasa.,0,0,0,0,0,0,1,0,0,0,0,0,0
+792,792,328-3-0,overcomping attention defisit hyperactivity disorder adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+793,793,327-3-0,"Nah, mari kita berharap itu membantu wassalam.",0,0,0,0,0,0,0,0,0,0,0,1,0
+794,794,326-3-0,Pilih protein berisi daging keju telur.,0,0,0,0,1,0,0,0,0,0,1,0,0
+795,795,326-3-83,Konservasi sumber energi karbohidrat memilih kompleks karbohidrat gandum nasi merah sayuran buah,0,0,0,0,1,0,0,0,0,0,1,0,0
+796,796,326-3-226,jenis makanan mengandung asam omega dikonsumsi oleh gandum ikan salmon tuna,0,0,0,0,0,0,0,0,0,0,1,0,0
+797,797,326-3-366,disarankan biskuit cokelat tipe,0,0,0,0,0,0,0,0,0,0,1,0,0
+798,798,326-3-429,Beberapa jenis makanan ringan memetik buah dipotong.,0,0,0,0,0,0,0,0,0,0,1,0,0
+799,799,325-3-3,gula,0,0,0,0,0,0,0,0,0,0,1,0,0
+800,800,324-3-3,Kentang,0,0,0,0,0,0,0,0,0,0,1,0,0
+801,801,323-3-3,Sayang.,0,0,0,0,0,0,0,0,0,0,1,0,0
+802,802,322-3-3,beras,0,0,0,0,0,0,0,0,0,0,1,0,0
+803,803,321-3-3,Ini tepung.,0,0,0,0,0,0,0,0,0,0,1,0,0
+804,804,320-3-3,Permen.,0,0,0,0,0,0,0,0,0,0,1,0,0
+805,805,319-3-0,Kondisi penelitian hiperaktif seorang anak disebabkan oleh tipe diet langsung,1,0,1,0,0,0,0,0,0,0,0,0,0
+806,806,319-3-133,Tipe makanan masyarakat telah berperan dalam gejala anak - anak hiperaktif,1,0,1,0,0,0,0,0,0,0,0,0,0
+807,807,319-3-276,jenis makanan dihindari,0,0,0,0,0,0,0,0,0,0,0,0,0
+808,808,318-3-0,selamat malam terima kasih pertanyaan,0,0,0,0,0,0,0,1,0,0,0,0,0
+809,809,317-3-0,Doc Boy usia hiperaktif anak konsumsi konsumsi cokelat susu biskuit konsumsi,1,1,1,0,0,0,1,0,0,0,1,0,0
+810,810,316-3-0,konsumsi pangan anak hiperaktif,1,0,0,1,0,0,0,0,0,0,0,0,0
+811,811,315-3-0,Kuharap itu sepadan.,0,0,0,0,0,0,0,0,0,0,0,1,0
+812,812,314-3-0,Kenali tanda perubahan suasana hati yang normal,0,0,0,0,0,0,0,0,0,0,0,0,0
+813,813,313-3-0,artikel yang terkait,0,0,0,0,0,0,0,0,0,0,0,0,0
+814,814,312-3-0,"Berkonsultasilah dengan dokter keluhan alami, rasanya seperti menyebabkan gangguan.",0,0,0,0,1,0,0,0,0,1,0,0,0
+815,815,312-3-120,mencoba untuk hidup gaya hidup yang sehat positif aktivitas buku harian mood berurusan dengan keluhan,0,0,0,0,1,1,0,0,0,0,0,0,0
+816,816,311-3-0,karena penyakit mental adhd depresi gangguan bipolar skizofrenia gangguan kepribadian,0,0,1,0,0,0,0,0,1,0,0,0,0
+817,817,310-3-0,Ini adalah penyakit tiroid.,0,0,1,0,0,0,0,0,1,0,0,0,0
+818,818,309-3-0,Ketidakseimbangan kimia otak,0,0,0,0,0,0,0,0,1,0,0,0,0
+819,819,308-3-0,keadaan hormon,0,0,0,0,0,0,0,0,1,0,0,0,0
+820,820,307-3-0,"Suasana berubah-ubah, suasana hati yang normal menyebabkan gangguan, suasananya berubah.",0,0,0,1,0,0,0,0,0,0,0,0,0
+821,821,307-3-201,mempengaruhi suasana hati,0,0,0,0,0,0,0,0,0,0,0,0,0
+822,822,306-3-0,Suasana hati berubah-ubah. keadaan normal hari ini terpengaruh.,0,0,0,1,0,0,0,0,0,0,0,0,0
+823,823,306-3-112,"Orang-orang berubah suasana hati orang lain berubah suasana hati yang ekstrim, menyebabkan gangguan jiwa kondisi sehari-hari membutuhkan perhatian medis terkait dengan kondisi medis gangguan bipolar.",0,0,1,1,0,0,0,0,0,1,0,0,0
+824,824,305-3-0,hi rizkana,0,0,0,0,0,0,0,1,0,0,0,0,0
+825,825,304-3-0,Orang awam itu mengatasi adhd.,0,0,1,0,0,0,0,0,1,1,0,0,0
+826,826,304-3-157,sabar. berbagi orang tua anak-anak memiliki keluhan. bersikaplah kasar.,1,0,0,0,1,0,0,0,0,0,0,0,0
+827,827,304-3-312,"Nah, mari kita berharap begitu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+828,828,303-3-0,Menduga anak-anak memiliki pemeriksaan profesional adhd psikiater anak kecil psikolog anak anak,1,0,1,0,1,0,0,0,0,0,0,0,0
+829,829,303-3-185,Psikolog berdiagnosis menentukan pengobatan terbaik anak,0,0,0,0,0,1,0,0,0,1,0,0,0
+830,830,303-3-318,Ini pengobatan obat psikoterapi.,0,0,0,0,1,0,0,0,0,0,1,0,0
+831,831,140-3-0,Mengatasi perubahan suasana hati.,0,0,0,0,1,0,0,0,0,0,0,0,0
+832,832,139-3-0,Terpapar racun anak-anak.,0,0,0,0,0,0,0,0,1,0,0,0,0
+833,833,138-3-0,menderita stres kehamilan.,0,0,0,0,0,0,0,0,1,0,0,0,0
+834,834,137-3-0,Minum alkohol untuk obat kehamilan,0,0,0,0,0,0,0,0,1,0,0,0,0
+835,835,136-3-0,hamil terinfeksi,0,0,0,0,0,0,0,0,1,0,0,0,0
+836,836,135-3-0,kerusakan otak kandungan.,0,0,0,0,0,0,0,0,1,0,0,0,0
+837,837,134-3-0,gangguan struktur fungsi otak,0,0,0,0,0,0,0,0,1,0,0,0,0
+838,838,133-3-0,riwayat kelahiran prematur,0,0,0,0,0,0,0,0,1,0,0,0,0
+839,839,131-3-0,Penyebab kondisi faktor diyakini memiliki efek,0,0,0,0,0,0,0,0,1,0,0,0,0
+840,840,130-3-0,"Selamat siang./ Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+841,841,130-3-56,perhatian terhadap gangguan hiperaktivitas tambahan di mana anak-anak itu sulit di pakai sudah mengubah perilakunya menjadi hiperaktif hentikan dampaknya anak-anak itu sudah sekolah anak-anak itu sudah baik-baik saja,1,0,1,1,0,0,0,0,0,0,0,0,0
+842,842,128-3-0,alasan untuk menangani adhd anak,1,0,1,0,1,0,0,0,0,0,0,0,0
+843,843,129-3-0,Anak itu mendapat adhd.,1,0,1,0,0,0,1,0,0,0,0,0,0
+844,844,127-3-0,"Lakukan, perhatikan kondisi stimulasinya, pelajari bagaimana kau menyukainya.",0,0,0,0,1,0,0,0,0,0,0,0,0
+845,845,127-3-151,"Nah, mari kita berharap begitu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+846,846,126-3-0,Pastikan untuk memeriksa ujian anak dokter anak menilai kemampuannya untuk berkonsentrasi kemampuannya untuk menyelesaikan,1,0,0,0,1,1,0,0,0,0,0,0,0
+847,847,126-3-209,aktif normal,0,0,0,1,1,1,0,0,0,0,0,0,0
+848,848,126-3-308,Pemeriksaan aktivasi seorang anak sulit untuk menilai fokus subjektif,0,0,0,0,0,0,0,0,0,0,0,0,0
+849,849,126-3-439,Pemeriksaan dokter anak atas penilaiannya ditangani secara obyektif,0,0,0,0,1,1,0,0,0,0,0,0,0
+850,850,125-3-0,"Kondisi anak cenderung aktif, sulit untuk fokus normal.",0,0,0,1,0,0,0,0,0,0,0,0,0
+851,851,125-3-142,"Itu normal, dia senang dengan energinya.",0,0,0,0,0,0,0,0,0,0,0,0,0
+852,852,125-3-268,kelainan bentuk adhd autisme normal,0,0,1,0,0,0,0,0,0,0,0,0,0
+853,853,124-3-0,"Selamat siang./ Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+854,854,124-3-57,"Anak yang aktif diam, otak kirinya dominan.",1,0,0,1,0,0,0,0,0,0,0,0,0
+855,855,124-3-182,Otak yang dominan menampilkan keterampilannya mencintai bau seni logika segera memfasilitasi anak pilihan keterampilan,1,0,0,0,0,0,0,0,0,0,0,0,0
+856,856,123-3-0,"Selamat siang, Dok, anak-anak cenderung aktif, sulit untuk fokus.",1,0,0,1,0,0,1,1,0,0,0,0,0
+857,857,123-3-133,Memiliki koneksi adhd,0,0,1,0,0,0,1,0,0,0,0,0,0
+858,858,123-3-167,dia,0,0,0,0,0,0,1,0,0,0,0,0,0
+859,859,123-3-204,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+860,860,122-3-0,anak-anak cenderung aktif sulit untuk fokus apakah ada koneksi adhd?,1,0,1,1,0,0,1,0,0,0,0,0,0
+861,861,121-3-0,"Terima kasih, semoga membantu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+862,862,120-3-0,baca artikel menghadapi anak hiperaktif,0,0,0,0,0,0,0,0,0,0,0,0,0
+863,863,119-3-0,Berkonsultasilah dengan keluhan psikiater psikolog anak membantu,0,0,0,0,1,1,0,0,0,0,0,0,0
+864,864,118-3-0,membina hubungan keluarga yang sehat.,0,0,0,0,1,0,0,0,0,0,0,0,0
+865,865,117-3-0,menciptakan tidur rutin,0,0,0,0,1,0,0,0,0,0,0,0,0
+866,866,116-3-0,Terapkan disiplin positif,0,0,0,0,1,0,0,0,0,0,0,0,0
+867,867,116-3-31,memberinya kasih sayang menghargai memuji tindakannya,0,0,0,0,1,0,0,0,0,0,0,0,0
+868,868,115-3-0,"menciptakan tatanan hidup, tenang, anak terorganisir.",0,0,0,0,1,1,0,0,0,0,0,0,0
+869,869,114-3-0,anak move-on normal,1,0,0,0,0,0,0,0,0,0,0,0,0
+870,870,114-3-59,"Orang tua curiga, sehingga sulit untuk mengendalikan reaksi.",0,0,0,1,0,0,0,0,0,0,0,0,0
+871,871,114-3-207,gejala defisit gangguan hiperaktivitas ditambahkan,0,0,1,0,0,0,0,0,0,0,0,0,0
+872,872,114-3-299,gejala adhd anak mengalami kurangnya kemampuan untuk fokus perhatian diam hiperaktif,1,0,1,1,0,0,0,0,0,0,0,0,0
+873,873,114-3-459,"Perhatian anak mudah teralihkan, perhatikan kelupaan.",1,0,1,1,0,0,0,0,0,0,0,0,0
+874,874,114-3-556,anak hiperaktif terus bergerak sulit untuk tetap diam tidak apa-apa,1,0,1,1,0,0,0,0,0,0,0,0,0
+875,875,114-3-689,Menginterupsi percakapan tentang kegiatan pasien menunggu gilirannya untuk memiliki takut bahaya,0,0,0,1,0,0,0,0,0,0,0,0,0
+876,876,113-3-0,"Halo, terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+877,877,112-3-0,"Tingkat perkembangan kakak kakak perempuannya, bukan umur yang lambat dibandingkan umur anak-anak yang berbicara, sulit untuk mencocokkan anak-anak yang hiperaktif dan hiperaktif, sulit untuk mendengarkan teguran berhenti.",1,0,0,1,0,0,0,1,0,0,0,0,0
+878,878,112-3-467,Sudah normal bagi anak-anak untuk memiliki autisme di tangan mereka.,1,0,1,0,0,0,1,0,0,0,0,1,0
+879,879,111-3-0,tanda autisme anak,1,0,1,0,0,0,0,0,0,0,0,0,0
+880,880,110-3-0,Mudah-mudahan informasi akan membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+881,881,109-3-0,kurang perhatian gangguan hiperaktif adhd gangguan mental menyebabkan anak sulit untuk fokus perhatian impulsif hiperaktif,1,0,1,1,0,0,0,0,0,0,0,0,0
+882,882,109-3-176,Sulit untuk diam dan bergerak.,1,0,0,1,0,0,0,0,0,0,0,0,0
+883,883,109-3-237,Anak itu memiliki kebiasaan menggerakkan tubuh suka berlari dan berbicara fokus.,0,0,0,1,0,0,0,0,0,0,0,0,0
+884,884,109-3-387,"Penyebab adhd berkaitan dengan faktor genetis akibat kerusakan dini pada otak janin, yaitu paparan zat - zat berbahaya pada anak - anak.",0,0,1,0,0,0,0,0,1,0,0,0,1
+885,885,107-3-0,Istilah hiperkinetik menggambarkan peningkatan aktivitas otot menyebabkan gerakan otot normal kombinasi,0,0,1,1,0,0,0,0,1,0,0,0,0
+886,886,107-3-190,hiperkinetik disebabkan oleh aktivitas otak normal listrik area otak,0,0,1,0,0,0,0,0,1,1,0,0,0
+887,887,107-3-301,kondisi aktif hiperaktif hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+888,888,107-3-393,kondisi disertai peningkatan gerakan hiperkinetik,0,0,1,0,0,0,0,0,0,0,0,0,0
+889,889,107-3-488,hiperaktif disebabkan oleh hipertiroidisme adhd gangguan otak gangguan kesehatan mental,0,0,1,0,0,0,0,0,1,0,0,0,0
+890,890,106-3-0,Halo isna. terima kasih pertanyaan.,0,0,0,0,0,0,0,1,0,0,0,0,0
+891,891,105-3-0,Dok Hallo berbeda dari hyperactivism hyperkinetic adhd dermaga hiperaktif,0,0,1,0,0,0,1,1,0,0,0,0,0
+892,892,105-3-92,keempat,0,0,0,0,0,0,1,0,0,0,0,0,0
+893,893,105-3-114,"Ini berbeda, kumohon.",0,0,0,0,0,0,1,0,0,0,0,0,0
+894,894,105-3-146,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+895,895,104-3-0,hiperaktif diferensial hyperkinetic adhd hiperaktivitas,0,0,1,0,0,0,0,0,0,0,0,0,0
+896,896,103-3-0,Penjelasan mungkin bermanfaat.,0,0,0,0,0,0,0,0,0,0,0,1,0
+897,897,102-3-0,"Penyakit menyebabkan gangguan gerak akut, meningkatkan penyebab.",0,0,0,1,1,1,0,0,0,0,0,0,0
+898,898,102-3-126,Kondisi pasien memperburuk ketergantungan orang-orang dari aktivitas sehari-hari.,0,0,1,0,0,0,0,0,0,0,0,0,0
+899,899,102-3-305,Kesalahan dalam memeriksa keluhan sang pasien mengganggu kegiatan hariannya,0,0,0,0,1,1,0,0,0,1,0,0,0
+900,900,101-3-0,Pemeriksaan dukungan mencari penyebab kelainan,0,0,0,0,1,1,0,0,0,0,0,0,0
+901,901,101-3-92,Mendukung pemeriksaan menyesuaikan hasil diagnosis terhadap dokter yang dicurigai,0,0,0,0,1,0,0,0,0,1,0,0,0
+902,902,96-3-0,Kejang,0,0,0,1,0,0,0,0,0,0,0,0,0
+903,903,95-3-0,Beratnya turun drastis.,0,0,0,1,0,0,0,0,0,0,0,0,0
+904,904,94-3-0,Perubahan perilaku pasien,0,0,0,1,0,0,0,0,0,0,0,0,0
+905,905,93-3-0,Pasien hampir tidak bisa berdiri berjalan,0,0,0,1,0,0,0,0,0,0,0,0,0
+906,906,89-3-0,gangguan gangguan serta perubahan gaya berjalan khas,0,0,0,1,0,0,0,0,0,0,0,0,0
+907,907,89-3-93,Pemeriksaan langsung gangguan gerakan dokter.,0,0,0,0,1,1,0,0,0,0,0,0,0
+908,908,89-3-221,seks dengan dokter usia pasien adalah faktor risiko dalam sejarah penyakit usia gender keluarga,0,0,0,0,0,0,0,0,0,1,0,0,0
+909,909,89-3-424,periksa gangguan gerakan perilaku yang disertai keluhan,0,0,0,0,0,0,0,0,0,0,0,0,0
+910,910,79-3-0,sindrom kaki gelisah,0,0,1,0,0,0,0,0,0,0,0,0,0
+911,911,77-3-0,Gangguan otak-sistem.,0,0,1,0,0,0,0,0,0,0,0,0,0
+912,912,76-3-0,hyperthyroids,0,0,1,0,0,0,0,0,0,0,0,0,0
+913,913,75-3-0,getaran penting,0,0,1,0,0,0,0,0,0,0,0,0,0
+914,914,74-3-0,Penyakit Huntington.,0,0,1,0,0,0,0,0,0,0,0,0,0
+915,915,73-3-0,Penyakit Parkinson,0,0,1,0,0,0,0,0,0,0,0,0,0
+916,916,72-3-0,"Gerakan involunter, kaki pasien bergerak untuk mengontrol penyakit.",0,0,0,1,1,0,0,0,0,0,0,0,0
+917,917,71-3-0,gangguan hyperactivity adhd perhatian defisific gangguan hiperaktivitas,0,0,1,0,0,0,0,0,1,0,0,0,0
+918,918,66-3-0,meningkatkan konsentrasi,0,0,0,0,0,1,0,0,0,0,0,0,0
+919,919,64-3-0,mengantuk,0,0,0,0,0,0,0,0,0,1,0,0,0
+920,920,63-3-0,cemas.,0,0,0,0,0,0,0,0,0,1,0,0,0
+921,921,62-3-0,bosan,0,0,0,0,0,0,0,0,0,1,0,0,0
+922,922,61-3-0,Orang-orang menggelengkan kaki mereka.,1,0,0,1,0,0,0,0,0,0,0,0,0
+923,923,59-3-0,Anggota badan bergoyang duduk dibedakan dalam gerakan vouter kontrol pasien sengaja melakukannya sehingga pasien menyadari gerakan involunter kontrol pasien berhenti dia,0,0,0,1,1,0,1,0,0,0,0,0,0
+924,924,58-3-0,Halo mamasmala,0,0,0,0,0,0,0,1,0,0,0,0,0
+925,925,56-3-0,dok tidak jelasnya gerakannya terlalu kasar kok pria biasa kok kok kok kok laki-laki,1,0,0,1,0,0,1,0,0,0,0,0,0
+926,926,53-3-0,Menyebabkan tubuh untuk tutup mulut,0,0,0,1,0,0,0,0,0,0,0,0,0
+927,927,52-3-0,Mari kita berharap informasi itu berguna.,0,0,0,0,0,0,0,0,0,0,0,1,0
+928,928,51-3-0,Gejala keraguan berkonsultasi dengan dokter yang berspesialisasi dalam psikiatri baru-baru ini.,0,0,0,0,1,0,0,0,0,0,0,0,0
+929,929,51-3-214,menjaga kesehatan mental anak silahkan terlibat kehidupan anak,1,0,0,0,1,1,0,0,0,0,0,0,0
+930,930,51-3-314,Bawa anak itu jalan-jalan.,1,0,0,0,1,0,0,0,0,0,0,0,0
+931,931,51-3-354,Pujian seorang anak adalah keuntungan bagi seorang anak.,1,0,0,0,1,0,0,0,0,0,0,0,0
+932,932,51-3-415,jangan memaksa anak-anak untuk disukai oleh anak-anak,1,0,0,0,1,0,0,0,0,0,0,0,0
+933,933,51-3-479,mengajar anak-anak untuk mengendalikan emosi agar tenang,1,0,0,0,1,0,0,0,0,0,0,0,0
+934,934,51-3-538,Bantuan keluarga yang meragukan membantu merawat sang anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+935,935,50-3-0,Mimpi buruk.,0,0,0,1,0,0,0,0,0,0,0,0,0
+936,936,49-3-0,mengalami rengekan,0,0,0,1,0,0,0,0,0,0,0,0,0
+937,937,48-3-0,anak-anak memiliki emosi sulit untuk mengekspresikan emosi.,1,0,0,1,0,0,0,0,0,0,0,0,0
+938,938,47-3-0,Anak itu kesulitan berkomunikasi.,1,0,0,1,0,0,0,0,0,0,0,0,0
+939,939,46-3-0,Anak-anak mengalami kesulitan bersosialisasi.,1,0,0,1,0,0,0,0,0,0,0,0,0
+940,940,45-3-0,anak-anak seperti bergerak berulang-ulang aktif,1,0,0,1,0,0,0,0,0,0,0,0,0
+941,941,44-3-0,Sulit bagi anak-anak untuk berkonsentrasi.,1,0,0,1,0,0,0,0,0,0,0,0,0
+942,942,42-3-0,Perubahan perilaku agresif,0,0,0,1,0,0,0,0,0,0,0,0,0
+943,943,41-3-0,Perubahan kebiasaan tidur sulit untuk tidur,0,0,0,1,0,0,0,0,0,0,0,0,0
+944,944,39-3-0,Anak - anak yang mengalami gangguan kesehatan mental mudah terdeteksi,1,0,1,0,1,0,0,0,0,0,0,0,0
+945,945,39-3-75,gejala layak mendapat perhatian orang tua,0,0,0,0,0,0,0,0,0,0,0,0,0
+946,946,38-3-0,gangguan mood gangguan bipolar,0,0,1,0,0,0,0,0,0,0,0,0,0
+947,947,37-3-0,gangguan perilaku yang mengganggu,0,0,1,0,0,0,0,0,0,0,0,0,0
+948,948,36-3-0,Gangguan spektrum autisme autistik gangguan perkembangan add pada otak mempengaruhi kemampuan anak-anak untuk mengkomunikasikan perilaku anak-anak,0,0,1,1,0,0,0,0,1,0,0,0,0
+949,949,35-3-0,kurang perhatian gangguan hiperaktif adhd membuat seorang anak sulit berkonsentrasi untuk memiliki perilaku hiperaktif impulsif,1,0,1,1,0,0,0,0,0,0,0,0,0
+950,950,35-3-179,Kondisi yang mengganggu dari sekolah,1,0,0,0,0,1,0,0,0,0,1,0,0
+951,951,29-3-0,Gangguan kecemasan,0,0,0,1,0,0,0,0,0,0,0,0,0
+952,952,28-3-0,Gangguan kesehatan mental adalah gangguan kesehatan mental anak dewasa,1,0,1,0,0,0,0,0,0,0,0,0,0
+953,953,25-3-0,Halo Douwandjoe Terima kasih untuk pertanyaan,0,0,0,0,0,0,0,1,0,0,0,0,0
+954,954,24-3-0,Assalamualaikum.,0,0,0,0,0,0,0,1,0,0,0,0,0
+955,955,23-3-0,"Terima kasih, Dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+956,956,20-3-0,"Jangan khawatir, ini gangguan mental kecil, di bawah meja.",1,1,0,0,0,0,1,0,0,0,0,0,0
+957,957,14-3-0,Penyakit mental anak-anak di bawah.,1,1,1,0,0,0,0,0,0,0,0,0,0
+958,958,789-2-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+959,959,788-2-0,informasi,0,0,0,0,0,0,0,0,0,0,0,1,0
+960,960,787-2-0,hindari menggunakan perangkat program TV yang mendukung perkembangan bahasa anak,0,0,0,0,1,0,0,0,0,0,1,0,0
+961,961,786-2-0,Makanan yang baik bergizi,0,0,0,0,1,0,0,0,0,0,0,0,0
+962,962,785-2-0,mendukung kemampuan perkembangan anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+963,963,784-2-0,Menjaga anak berhubungan dengan interaksi sehari-hari.,0,0,0,0,1,0,0,0,0,0,0,0,0
+964,964,783-2-0,perawatan interaksi anak dipertimbangkan,0,0,0,0,0,0,0,0,0,0,0,0,0
+965,965,782-2-0,pertimbangkan berkonsultasi dengan dokter anak untuk evaluasi,0,0,0,0,1,0,0,0,0,0,0,0,0
+966,966,782-2-161,periksa dokter sedang merencanakan perawatan ada gangguan pertumbuhan penemuan anak-anak,0,0,0,0,0,0,0,0,0,0,0,0,0
+967,967,781-2-0,adhd memicu risiko delay spach terkait pidato hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+968,968,781-2-120,adhd bersama dengan penundaan pidato,0,0,1,1,0,0,0,0,0,0,0,0,0
+969,969,781-2-236,Tundaan Speach anak dievaluasi risiko adhd adhd cenderung menjadi pembicaraan hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+970,970,780-2-0,Mengganggu kegiatan orang - orang,0,0,0,1,0,0,0,0,0,0,0,0,0
+971,971,779-2-0,Bicaralah,0,0,0,1,0,0,0,0,0,0,0,0,0
+972,972,778-2-0,Sulit untuk tutup mulut.,0,0,0,1,0,0,0,0,0,0,0,0,0
+973,973,777-2-0,Ini adalah aktivitas yang sulit.,0,0,1,0,0,0,0,0,0,0,0,0,0
+974,974,776-2-0,simaklah perincian khotbah itu,0,0,0,1,0,0,0,0,0,0,0,0,0
+975,975,775-2-0,Dia mudah teralihkan.,0,0,0,1,0,0,0,0,0,0,0,0,0
+976,976,774-2-0,adhd memicu gangguan bicara di mana adhd berdiri untuk gangguan gangguan fungsi hiperaktif gangguan kelainan definisi gangguan mental menyebabkan anak-anak sulit untuk fokus pada perilaku impulsif hiperaktif mempengaruhi kinerja anak-anak di sekolah,0,0,1,1,0,1,0,0,0,0,0,0,0
+977,977,774-2-356,Adhd gejala seorang anak usia sekolah,0,0,1,0,0,0,0,0,0,0,0,0,0
+978,978,774-2-463,Adhd anak dengan gejala,0,0,0,0,0,0,0,0,0,0,0,0,0
+979,979,773-2-0,"Karena berkonsultasi langsung dengan seorang profesional, hal itu turut menentukan pemicu gangguan tutur kata.",0,0,0,0,1,1,0,0,0,0,0,0,0
+980,980,772-2-0,autisme,0,0,1,0,0,0,0,0,1,0,0,0,0
+981,981,771-2-0,anggota komunikasi dari keluarga berbahasa dua bahasa,0,0,0,0,0,0,0,0,1,0,0,0,0
+982,982,770-2-0,Gangguan struktur rongga mulut,0,0,1,0,0,0,0,0,1,0,0,0,0
+983,983,769-2-0,gangguan pertumbuhan anak,0,0,1,0,0,0,0,0,1,0,0,0,0
+984,984,768-2-0,Gangguan pendengaran,0,0,1,0,0,0,0,0,1,0,0,0,0
+985,985,767-2-0,pengenalan interaksi lingkungan,0,0,0,0,0,0,0,0,1,0,0,0,0
+986,986,766-2-0,anak berinteraksi perangkat televisi,0,0,0,0,0,0,0,0,1,0,1,0,0
+987,987,765-2-0,Komunikasi antar orang tua lingkungan,0,0,0,0,0,0,0,0,1,0,0,0,0
+988,988,764-2-0,alasan untuk keluhan spach penundaan,0,0,0,0,0,0,0,0,0,0,0,0,0
+989,989,763-2-0,Perkembangan yang wajar dilakukan di tempat para lansia berbicara sesuai dengan usia mereka.,1,1,1,1,0,0,0,0,0,0,0,0,0
+990,990,763-2-191,Anak - anak mengalami penundaan pemeriksaan langsung terhadap dokter anak membantu evaluasi terapi speach menentukan apakah kendala mempengaruhi,0,0,1,0,1,0,0,0,0,0,0,0,0
+991,991,762-2-0,usia perbendaharaan anak mencapai untuk membentuk kalimat,0,0,0,0,0,0,0,0,0,0,0,0,0
+992,992,761-2-0,usia kemampuan bicara meningkat dalam kompilasi,0,0,0,0,0,0,0,0,0,0,0,0,0
+993,993,760-2-0,Usia anak pertamanya.,0,0,0,0,0,0,0,0,0,0,0,0,0
+994,994,759-2-0,usia anak bergumam,0,0,0,0,0,0,0,0,0,0,0,0,0
+995,995,758-2-0,Penundaan bahasa berbicara tentang kondisi di mana keterampilan berkomunikasi berkembang pada usianya,0,0,1,0,0,0,0,0,0,0,0,0,0
+996,996,758-2-152,Anak-anak memiliki detensi spach. pidato mereka telah meningkat pada usianya.,0,0,0,1,0,0,0,0,0,0,0,0,0
+997,997,758-2-297,"Kondisi pembangunannya normal, perkembangan pembicaraan anak - anak disusul dengan perkembangan usia.",0,0,0,0,0,0,0,0,0,0,0,0,0
+998,998,757-2-0,sejarah keluhan terlambat berbicara kondisi anak spach penundaan,1,1,1,0,0,0,0,0,0,0,0,0,0
+999,999,757-2-138,Didistribusi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1000,1000,756-2-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1001,1001,755-2-0,"Halo, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1002,1002,754-2-0,"Halo, doc.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1003,1003,754-2-29,anak berbicara speechdelay,1,1,0,1,0,0,1,0,0,0,0,0,0
+1004,1004,754-2-110,penderita speechdelay adhd,0,0,0,0,0,0,1,0,0,0,0,0,0
+1005,1005,753-2-0,Semoga membantu./ Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1006,1006,752-2-0,"Disarankan untuk memeriksa anak sang anak, perawatan itu mencegah penghinaan.",0,0,0,0,1,1,0,0,0,0,0,0,0
+1007,1007,751-2-0,Penyebab faktor genetik lingkungan adhd berpengaruh,0,0,1,0,0,0,0,0,1,0,0,0,0
+1008,1008,751-2-98,Anak telah adhd dokter anak apos; s pemeriksaan,0,0,1,0,1,0,0,0,0,0,0,0,0
+1009,1009,751-2-209,Dokter percobaan anak-anak.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1010,1010,750-2-0,Ini impulsif untuk memikirkan konsekuensi,0,0,0,1,0,0,0,0,0,0,0,0,0
+1011,1011,749-2-0,hiperaktif,0,0,0,1,0,0,0,0,0,0,0,0,0
+1012,1012,748-2-0,Gangguan penyisipan perhatian,0,0,0,1,0,0,0,0,0,0,0,0,0
+1013,1013,747-2-0,adhd defisit defisit hiperactivity disorder adalah kelainan dimana anak cenderung menjadi gangguan perhatian hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+1014,1014,747-2-161,gejala adhd utama,0,0,0,0,0,0,0,0,0,0,0,0,0
+1015,1015,746-2-0,Cobalah untuk membantu.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1016,1016,745-2-0,Halo sajak terima kasih dokter alo,0,0,0,0,0,0,0,1,0,0,0,0,0
+1017,1017,744-2-0,"Halo, Dok.",1,1,0,0,0,0,0,1,0,0,0,0,0
+1018,1018,744-2-85,"Anak itu sangat aktif, Dok.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1019,1019,744-2-207,Anak itu punya waktu yang sulit fokus.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1020,1020,744-2-244,Takut anak itu menderita sindrom adhd inkonsistensi.,0,0,1,0,0,0,0,0,1,0,0,0,0
+1021,1021,744-2-316,Sangat sulit bagi seorang anak untuk tidur begitu tenang dengan saudaranya begitu berisik tidak begitu sulit untuk mengambil anak-anak.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1022,1022,744-2-461,"Tidak, aku mohon padamu.",0,0,0,0,0,0,1,0,0,0,0,1,0
+1023,1023,743-2-0,Itu bagus untukmu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1024,1024,742-2-0,Keluhan perkembangan enggan berkonsultasi dengan dokter anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+1025,1025,742-2-131,tambahkan informasi baca artikel adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1026,1026,741-2-0,Bawa anak-anak ke aktivitas fisik pada akhir hari.,0,0,0,0,1,0,0,0,0,0,0,0,1
+1027,1027,740-2-0,batasi anak - anak untuk menonton televisi komputer ponsel,0,0,0,0,1,0,0,0,0,0,1,0,0
+1028,1028,739-2-0,Pastikan anak itu istirahat.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1029,1029,738-2-0,cairan anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+1030,1030,737-2-0,Asupan nutrisi yang sehat bagi anak - anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+1031,1031,736-2-0,sepertinya sudah benar-benar ditaklukan sudah dipersiapkan sudah siap sudah siap kembali hari ini kebiasaan anak-anak normal,0,0,1,0,1,0,0,0,0,0,0,0,0
+1032,1032,736-2-211,Haning penggunaan obat psikoterapi,0,0,0,0,0,0,0,0,0,0,1,0,0
+1033,1033,736-2-301,selain membantu orang tua untuk berhasil dalam menangani,0,0,0,0,0,0,0,0,0,0,0,0,0
+1034,1034,735-2-0,"Penyebab faktor-faktor campuran adhd dinilai untuk munculnya faktor-faktor kelahiran pra-natal, struktur kerusakan otak anak.",0,0,1,0,0,0,0,0,1,0,0,0,0
+1035,1035,734-2-0,adhd defisit defisit hiperactivity disorder adalah bentuk gangguan mental anak-anak memiliki kesulitan fokus pada memiliki perilaku impulsif hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+1036,1036,734-2-202,adhdboysareage dhddsofage,0,0,1,0,0,0,0,0,0,0,0,0,1
+1037,1037,734-2-374,tanda-tanda mencolok gejala saat anak tumbuh lebih tua,0,0,0,0,0,0,0,0,0,0,0,0,0
+1038,1038,733-2-0,"Halo, terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1039,1039,732-2-0,"Halo, doc. keponakan seorang putri adalah dari usianya masuk",1,1,0,0,0,0,0,1,0,0,0,0,0
+1040,1040,732-2-93,Keponakan saya suka menangis keras-keras berbicara dengan ayahnya tidak suka bangun di malam hari menangis keras kadang-kadang dia tidur di pagi hari,0,0,0,1,0,0,0,0,0,0,0,0,0
+1041,1041,732-2-354,Dia berbicara kepada anaknya kecuali ayahnya marah.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1042,1042,732-2-453,selesai mainannya selesai selesai dituntuti mainannya,0,0,0,1,0,0,0,0,0,0,0,0,0
+1043,1043,732-2-556,Keponakannya membawa dokter anak ke terapi jalanan psbb.,0,0,0,0,1,0,0,0,0,0,0,0,1
+1044,1044,732-2-691,Ayah dokter anak mengunjungi putra adik perempuan saya yang menderita adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1045,1045,732-2-782,Anak - anak usia yang menderita akibat adhd mencari sumber adhd yang kebanyakan dari mereka menderita kehidupan yang lebih baik.,0,0,1,0,0,0,1,0,0,0,0,0,0
+1046,1046,732-2-915,Pengobatannya berhenti.,0,0,0,0,0,0,1,0,0,0,0,0,0
+1047,1047,732-2-988,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1048,1048,731-2-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1049,1049,730-2-0,memeriksa kondisi anak seorang dokter direkomendasikan dengan belajar menyelesaikan tugas berperilaku.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1050,1050,730-2-234,disarankan anak - anak yang menemani bersikap impulsif,0,0,0,0,1,0,0,0,0,0,0,0,0
+1051,1051,730-2-361,Bersabarlah dengan sikap anak itu.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1052,1052,729-2-0,Psikiater khusus disarankan untuk membawa keluhan evaluasi psikiater anak secara langsung menemukan itu berdasarkan pengamatan langsung terhadap dokter anak.,0,0,1,0,1,0,0,0,0,0,0,0,0
+1053,1053,729-2-413,perawatan menetapkan kondisi kelainan anak,0,0,0,0,0,0,0,0,0,0,0,0,0
+1054,1054,729-2-520,Saran dokter Adhd.,0,0,1,0,1,0,0,0,0,0,1,0,0
+1055,1055,728-2-0,Berdasarkan usia munculnya gejala adhd anak terbagi adhd tipe adhd adhd adhd jarang,0,0,1,0,0,0,0,0,0,0,0,0,0
+1056,1056,728-2-165,adhd anak-anak sering datang anak-anak tua muncul,0,0,1,0,0,0,0,0,0,0,0,0,0
+1057,1057,727-2-0,"Halo Julia, terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1058,1058,726-2-0,Dear doc girl boy girl disorder learns brarti reaches class champion,1,1,0,0,0,0,0,1,0,0,0,0,0
+1059,1059,726-2-127,"Jika Anda tidak ingin belajar tulisan tangan yang buruk, guru-gurunya mengeluh sepulang sekolah, sekarang Anda belajar dari tugas malas melarikan diri dari sekolah.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1060,1060,726-2-595,Ini seperti penyebab sebuah rumah.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1061,1061,726-2-632,Saya telah mencoba untuk menerapkan ilmu kesabaran.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1062,1062,726-2-687,hasil yang parah,0,0,0,0,0,1,0,0,0,0,0,0,0
+1063,1063,726-2-745,Jangan Anda pikir ada anak laki-laki di sana?,0,0,0,0,0,0,1,0,0,0,0,0,0
+1064,1064,726-2-787,Adhd gejala muncul usia,0,0,0,0,0,0,1,0,0,0,0,0,0
+1065,1065,726-2-833,Disembuhkan,0,0,0,0,0,0,1,0,0,0,0,0,0
+1066,1066,726-2-854,Diagnosa H.E. dari co-ed.,0,0,0,0,0,0,1,0,0,0,0,1,0
+1067,1067,725-2-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1068,1068,724-2-0,Mudah-mudahan informasi akan membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1069,1069,723-2-0,Keluhan seorang anak menyebabkan gangguan yang signifikan. spesialis evaluasi dokter anak mengkonfirmasi kelainan anak. kelainan autisme dokter memang tepat.,0,0,1,0,1,0,0,0,0,0,0,0,0
+1070,1070,723-2-380,Pastikan kebutuhan anak dipenuhi dengan nutrisi.,0,0,0,0,0,0,0,0,0,0,1,0,0
+1071,1071,722-2-0,anak medis hiperaktif sebagai adhd perhatian didefinisikan gangguan hiperaktivitas membutuhkan evaluasi observasi keluhan untuk muncul lagi dan lagi.,0,0,1,1,0,0,0,0,0,0,0,0,0
+1072,1072,722-2-305,gejalanya muncul perhatian detail dari aktivitas berulang bicara sedang menunggu giliran,0,0,0,1,0,0,0,0,0,0,0,0,0
+1073,1073,722-2-560,"Gejala - gejalanya menciptakan keterbatasan yang signifikan, kegiatan mereka belajar untuk menjalani kegiatan sosial sehari - hari.",0,0,0,0,0,1,0,0,0,0,0,0,0
+1074,1074,721-2-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1075,1075,720-2-0,Halo Honi,0,0,0,0,0,0,0,1,0,0,0,0,0
+1076,1076,719-2-0,"Selamat siang, Dokter, anak-anakmu tidak bisa tidur di malam hari.",1,1,0,1,0,0,1,1,0,0,1,0,0
+1077,1077,719-2-945,Anak-anak autistik sekarang bersosialisasi di rumah orang dewasa.,0,0,0,0,0,0,1,0,0,0,0,0,0
+1078,1078,719-2-1070,tidak dapat diem bingt,0,0,0,0,0,0,0,0,0,0,0,0,0
+1079,1079,719-2-1092,Terima kasih sudah datang.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1080,1080,718-2-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1081,1081,717-2-0,anak membawa dokter anak diurus,0,0,0,0,1,0,0,0,0,0,0,0,0
+1082,1082,716-2-0,anak mengalami penundaan perkembangan global adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1083,1083,716-2-114,Gangguan pembangunan dicari - cari penyebab ketidaknormalan sistem saraf pusat untuk menderita sindroma,0,0,0,0,0,0,0,0,1,0,0,0,0
+1084,1084,716-2-269,Mengetahui bahwa pemeriksaan fisik dokter itu didukung.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1085,1085,715-2-0,perhatian yang tidak memadai untuk hiperaktivitas disorder salah memesan interferensi anak ditandakan fokus fokus fokus focus mengalami perilaku hiperaktif akibat sekolah,0,0,1,1,0,0,0,0,0,0,0,0,0
+1086,1086,715-2-216,addhd dianggap sebagai faktor genetik,0,0,0,0,0,0,0,0,1,0,0,0,0
+1087,1087,714-2-0,"Hai, Susan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1088,1088,714-2-12,"Pertanyaannya adalah, Dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1089,1089,713-2-0,tokoh dokter juga usia hiperaktif duduk tenang ngomong hurufnya zsondddya doc,1,1,0,1,0,0,1,1,0,0,0,0,0
+1090,1090,713-2-191,Watch youtube speak English speech delay,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091,1091,713-2-272,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1092,1092,712-2-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1093,1093,711-2-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1094,1094,710-2-0,Hindari minum alkohol.,0,0,0,0,1,0,0,0,0,0,1,0,0
+1095,1095,709-2-0,latihan rutin,0,0,0,0,1,0,0,0,0,0,0,0,0
+1096,1096,708-2-0,menjaga asupan nutrisi,0,0,0,0,1,0,0,0,0,0,0,0,0
+1097,1097,707-2-0,berinteraksi dengan orang-orang,0,0,0,0,1,0,0,0,0,0,0,0,0
+1098,1098,706-2-0,mengendalikan stres,0,0,0,0,1,0,0,0,0,0,0,0,0
+1099,1099,705-2-0,menulis kerja menulis catatan smartphone kerja,0,0,0,0,1,0,0,0,0,0,0,0,0
+1100,1100,704-2-0,"Fokus, selesaikan, selesaikan.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1101,1101,703-2-0,Jangan tidur larut malam.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1102,1102,702-2-0,Kegiatan fisik ringan yang melelahkan,0,0,0,0,1,0,0,0,0,0,0,0,0
+1103,1103,701-2-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1104,1104,700-2-0,kondisi berkonsultasi dengan dokter,0,0,0,0,1,0,0,0,0,0,0,0,0
+1105,1105,700-2-91,berkonsultasi dengan psikiater langsung tatap muka berkonsultasi dengan fitur obrolan dokter,0,0,0,0,1,0,0,0,0,0,0,0,0
+1106,1106,700-2-251,Dokter mengevaluasi penanganan yang sesuai,0,0,0,0,0,0,0,0,0,0,0,0,0
+1107,1107,699-2-0,Minum alkohol.,0,0,0,0,0,0,0,0,1,0,1,0,0
+1108,1108,698-2-0,Konsumsi vitamin b,0,0,0,0,0,0,0,0,1,0,0,0,0
+1109,1109,697-2-0,"Gangguan kesehatan, gangguan hormon tiroid, riwayat cedera kepala.",0,0,0,0,0,0,0,0,1,0,0,0,0
+1110,1110,696-2-0,Gangguan emosional.,0,0,0,0,0,0,0,0,1,0,0,0,0
+1111,1111,695-2-0,konsumsi narkoba,0,0,0,0,0,0,0,0,1,0,1,0,0
+1112,1112,694-2-0,kurang tidur,0,0,0,0,0,0,0,0,1,0,0,0,0
+1113,1113,693-2-0,pembatasan informasi evaluasi karena kondisi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1114,1114,693-2-132,mendiagnosa riwayat medis dari pemeriksaan fisik dukungan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1115,1115,693-2-272,Kondisi yang tidak fokus akibat kondisi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1116,1116,692-2-0,Gejala adhd utama dari hidangan adhd sulit untuk fokus pada perilaku hiperaktif dan impulsif,0,0,1,1,0,0,0,0,0,0,0,0,0
+1117,1117,692-2-125,Dimana keluhan Adhd anak laki-laki menjadi lebih buruk.,0,0,1,0,0,0,0,0,0,0,0,0,0
+1118,1118,692-2-179,"Keluhannya muncul, fokusnya terganggu, perhatikan detail cerobohnya.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1119,1119,692-2-323,dhddeddded dari adhd hiperaktif menurun seiring bertambahnya usia,0,0,1,1,0,0,0,0,0,0,0,0,0
+1120,1120,692-2-495,gejala - gejala yang sulit untuk difokuskan cenderung memburuk seraya mereka bertambah tua.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1121,1121,691-2-0,melupakan kesulitan fokus yang dialami orang-orang,0,0,0,1,0,0,0,0,0,0,0,0,0
+1122,1122,691-2-80,keluhan mengganggu kegiatan alami,0,0,0,0,0,0,0,0,0,0,0,0,0
+1123,1123,691-2-155,keluhan aktivitas disruptif dievaluasi,0,0,0,0,1,0,0,0,0,0,0,0,0
+1124,1124,691-2-278,Melihat keluhan dipahami kekhawatiran defisit gangguan hiperaktif adhd gangguan perkembangan yang salah bagi remaja dewasa,0,0,1,0,0,0,0,0,0,0,0,0,0
+1125,1125,691-2-534,gejala adhd anak muncul usia,0,0,1,0,0,0,0,0,0,0,0,0,0
+1126,1126,690-2-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1127,1127,689-2-0,Halo bsdalia,0,0,0,0,0,0,0,1,0,0,0,0,0
+1128,1128,688-2-0,"Selamat siang, Dok.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1129,1129,688-2-18,tua,0,1,0,0,0,0,0,0,0,0,0,0,0
+1130,1130,688-2-41,Sulit untuk fokus. lamunan lupa segala sesuatu yang lain.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1131,1131,688-2-107,"Ubah kebiasaannya, itu berhasil, orang tua lelah.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1132,1132,688-2-233,Pelatihan konsultan psikolog berjalan dengan baik di akhir.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1133,1133,688-2-375,fokus jangan lupa dapatkan pekerjaan yang bisa diperbaiki,0,0,0,1,0,0,0,0,0,0,0,0,0
+1134,1134,688-2-541,energi malas menyedihkan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1135,1135,688-2-643,pikiran off berpikir jelas kesalahan dari kesalahan sepele,0,0,0,1,0,0,0,0,0,0,0,0,0
+1136,1136,688-2-764,Sulit mencerna informasi rinci,0,0,0,1,0,0,0,0,0,0,0,0,0
+1137,1137,688-2-819,fokus hiperaktif diam hiperaktif,0,0,0,1,0,0,0,0,0,0,0,0,0
+1138,1138,688-2-959,"Ya, Dok.",0,0,0,0,0,0,1,0,0,0,0,0,0
+1139,1139,688-2-990,"Tolong, jawabannya membingungkan.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1140,1140,687-2-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1141,1141,686-2-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1142,1142,685-2-0,Ambil seorang anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+1143,1143,684-2-0,Membawa seorang anak ke aktivitas fisik setidaknya dalam satu menit,0,0,0,0,1,0,0,0,0,0,0,0,1
+1144,1144,683-2-0,membatasi anak-anak menonton televisi bermain video game telepon komputer,0,0,0,0,1,0,0,0,0,0,1,0,0
+1145,1145,682-2-0,mengatur jadwal tidur anak - anak secara teratur,0,0,0,0,1,0,0,0,0,0,0,0,0
+1146,1146,681-2-0,"Bantu seorang anak mengatur kehidupannya, mengatur kegiatannya, menjaga lingkungannya tetap rapi.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1147,1147,680-2-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1148,1148,679-2-0,adhd keadaan alami anak,0,0,1,0,0,1,0,0,0,0,0,0,0
+1149,1149,679-2-129,Anak-anak sulit berkonsentrasi hiperaktif menderita adhd,0,0,1,1,0,0,0,0,0,0,0,0,0
+1150,1150,679-2-206,Prognosis adhd serangkaian pemeriksaan evaluasi,0,0,0,0,1,0,0,0,0,0,0,0,0
+1151,1151,679-2-290,spesialis konsultasi anak menentukan kondisi anak normal adhd kondisi,0,0,1,0,1,0,0,0,0,0,0,0,0
+1152,1152,678-2-0,perkembangan motorik sosial anak,0,0,0,0,0,0,0,0,0,0,0,0,0
+1153,1153,678-2-99,Faktor genetis lingkungan mempengaruhi perkembangan anak,0,0,0,0,0,0,0,0,1,0,0,0,0
+1154,1154,678-2-167,Kondisi anak-anak adalah bahwa anak-anak memiliki aktivitas dalam penyaluran energi anak-anak nyaman menyebabkan kondisi anak-anak sulit untuk mengatur emosi mereka perhatian mereka terhadap gangguan hiperaktif adhd salah pengembangan remaja dewasa.,0,0,1,0,0,0,0,0,0,0,0,0,0
+1155,1155,678-2-584,gejala adhd anak muncul usia,0,0,1,0,0,0,0,0,0,0,0,0,0
+1156,1156,678-2-647,Gejala Adhd sulit untuk fokus pada perilaku hiperaktif dan impulsif,0,0,1,1,0,0,0,0,0,0,0,0,0
+1157,1157,677-2-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1158,1158,676-2-0,Halo Maurha,0,0,0,0,0,0,0,1,0,0,0,0,0
+1159,1159,675-2-0,Salam.,0,0,0,0,0,0,0,1,0,0,0,0,0
+1160,1160,674-2-0,"Dokterku adalah seorang anak dari bulan September, dia masih anak-anak.",1,1,0,0,0,0,0,0,0,0,0,0,0
+1161,1161,674-2-61,Mengekspresikan perilaku anak sebagian besar,0,0,0,1,0,0,0,0,0,0,0,0,0
+1162,1162,674-2-157,"Sulit untuk diam, sulit untuk menunggu.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1163,1163,674-2-507,lompat duduk,0,0,0,1,0,0,0,0,0,0,0,0,0
+1164,1164,674-2-545,Berjalan di pijat kadang-kadang melompat alami ya gejala doc seorang anak menderita adhd,0,0,0,0,0,0,1,0,0,0,0,0,0
+1165,1165,673-2-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1166,1166,672-2-0,melakukan meditasi yoga relaksasi,0,0,0,0,1,0,0,0,0,0,0,0,0
+1167,1167,671-2-0,Lakukan latihan rutin.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1168,1168,670-2-0,Cobalah untuk melakukan rutinitas lambat sekitar mendengarkan musik.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1169,1169,669-2-0,Cobalah menulis buku catatan atau catatan telepon. Lakukan.,0,0,0,0,1,0,0,0,0,0,1,0,0
+1170,1170,668-2-0,Alihkan pikiran negatif kegiatan positif kesenangan,0,0,0,0,1,0,0,0,0,0,0,0,0
+1171,1171,667-2-0,Jangan sendirian,0,0,0,0,1,0,0,0,0,0,0,0,0
+1172,1172,666-2-0,Sulit untuk bercerita tentang menulisnya di buku catatan.,0,0,0,0,1,0,0,0,0,0,1,0,0
+1173,1173,665-2-0,Orang-orang percaya pada teman-teman mereka.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1174,1174,664-2-0,Beristirahatlah.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1175,1175,663-2-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1176,1176,662-2-0,kondisi alami akibat gangguan kecemasan kondisional gangguan panik ptsd post traumat stress disorder condition,0,0,1,0,0,0,0,0,0,0,0,0,0
+1177,1177,662-2-194,Menyebabkan kondisi konsultan psikiater,0,0,0,0,1,0,0,0,0,0,0,0,0
+1178,1178,662-2-307,Dokter melakukan wawancara singkat mengenai kondisi pemeriksaan fisik.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1179,1179,662-2-456,penyebab kondisi penanganan yang sesuai,0,0,0,0,0,1,0,0,0,0,0,0,0
+1180,1180,661-2-0,itu sulit untuk direncakan sudah menjadi ciri hiperaktivitas yang melanggar aturan mental karakteristik itu agak sulit untuk direnungkan sudah menjadi ciri khas sekarang ini sudah menjadi ciri khas masyarakat sekarang juga ahhhhh sudah tua,0,0,1,1,0,0,0,0,0,0,0,0,0
+1181,1181,661-2-423,keadaan adhd dewasa memiliki riwayat adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1182,1182,661-2-516,memiliki adhd sejarah,0,0,1,0,0,0,1,0,0,0,0,0,0
+1183,1183,660-2-0,memahami perasaan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1184,1184,660-2-38,Orang-orang merasakan kesedihan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1185,1185,660-2-147,Tampaknya sedih disertai dengan faktor pemicu.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1186,1186,660-2-240,Pemeriksaan evaluasi gangguan aktivitas dari hari ke hari.,0,0,0,1,1,0,0,0,0,0,0,0,0
+1187,1187,659-2-0,"Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1188,1188,658-2-0,"Halo, putri.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1189,1189,657-2-0,p,0,0,0,0,0,0,0,0,0,0,0,0,0
+1190,1190,656-2-0,terbaik,0,0,0,0,0,0,0,0,0,0,0,0,0
+1191,1191,655-2-0,Peneliti tinggal di Vietnam tugas di atas kemungkinan.,1,0,0,0,0,1,0,0,0,0,0,0,0
+1192,1192,655-2-122,teman telah adhd menyarankan menambahkan pemeriksaan checklist,0,0,1,0,0,0,1,0,0,0,0,0,0
+1193,1193,655-2-233,jangan menghilangkan rasa takut kurang membantu fokus,0,0,0,0,0,0,1,0,0,0,0,0,0
+1194,1194,655-2-353,Terima kasih atas bantuanmu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1195,1195,654-2-0,minggu teman keluarga meninggal,0,0,0,0,0,0,0,0,0,0,0,0,1
+1196,1196,654-2-64,Sulit untuk fokus sulit untuk menetapkan prioritas.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1197,1197,654-2-400,Takut pagi hari.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1198,1198,653-2-0,dokter,0,0,0,0,0,0,0,0,0,0,0,0,0
+1199,1199,652-2-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1200,1200,651-2-0,Pastikan dokter anak memiliki cek langsung.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1201,1201,651-2-103,Dokter spesialis dokter anak ahli jiwa psikoterapi terapi obat menyesuaikan kondisi kakak,0,0,0,0,0,0,0,0,0,0,1,0,0
+1202,1202,650-2-0,orang memiliki kesulitan fokus pada perilaku hiperaktif.,0,0,1,1,0,0,0,0,0,0,0,0,0
+1203,1203,650-2-128,addhd anak,0,0,1,0,0,0,0,0,0,0,0,0,0
+1204,1204,649-2-0,Sulit untuk menentukan diagnostik langsung,0,0,0,0,0,0,0,0,0,0,0,0,0
+1205,1205,649-2-84,Penyebab gangguan ini adalah gangguan hiperaktivitas gangguan perhatian adik perempuan adhd penyakit epilepsi,0,0,1,0,0,0,0,0,0,0,0,0,0
+1206,1206,648-2-0,"Pertanyaannya adalah, Dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1207,1207,647-2-0,Orang tua itu terkena malaria.,0,1,1,0,0,0,0,1,0,1,0,0,0
+1208,1208,647-2-85,Dirawat di rumah sakit.,0,0,0,0,0,0,0,0,0,0,0,0,1
+1209,1209,647-2-124,Rumah selama seminggu di rumah.,0,0,0,0,0,0,0,0,0,0,0,0,1
+1210,1210,647-2-190,Hasil tes kesehatan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1211,1211,647-2-217,Demam kakak menggerakkan tangannya,0,0,0,1,0,0,0,0,0,0,0,0,0
+1212,1212,647-2-299,Diam berjalan di jalan,0,0,0,1,0,0,0,0,0,0,0,0,0
+1213,1213,647-2-337,Duduk tangannya masih gelisah,0,0,0,1,0,0,0,0,0,0,0,0,0
+1214,1214,647-2-393,Tempat tidur bergerak tangan bergulir berulang-ulang.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1215,1215,647-2-484,dok wajar,0,0,0,0,0,0,1,0,0,0,0,0,0
+1216,1216,647-2-502,Aku khawatir.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1217,1217,647-2-524,aktivitas apapun,0,0,0,0,0,1,0,0,0,0,0,0,0
+1218,1218,647-2-574,kencing belajar untuk menulis tentang gelisah perasaan diam.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1219,1219,646-2-0,Saran kondisi mempengaruhi guru konseling orang tua memeriksa dokter anak-anak di bawah seorang psikolog yang mencari fokus terkait mental pada penanganan fokus terbaik.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1220,1220,646-2-329,ayo latihan bicara tentang topik pilihan orang menarik,0,0,0,0,1,0,0,0,0,0,0,0,0
+1221,1221,646-2-483,Subjek memiliki fokus.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1222,1222,646-2-572,"Nah, mari kita berharap begitu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+1223,1223,645-2-0,memeriksa gejala yang terkait penggalian,0,0,0,0,0,0,0,0,0,0,0,0,0
+1224,1224,645-2-115,mengeluh tentang kesulitan fokus dari pidato orang lain,0,0,0,1,0,0,0,0,0,0,0,0,0
+1225,1225,645-2-207,Sulit untuk fokus. sulit untuk fokus. sulit untuk melihat orang yang berbicara.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1226,1226,645-2-539,Orang-orang merasa nyaman berinteraksi dengan gangguan sosial yang terlatih.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1227,1227,645-2-710,Fokus yang menarik.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1228,1228,645-2-809,Konteks subjek bosan dari tipe orang belajar praktek pendengaran,0,0,0,0,0,0,0,0,0,0,0,0,0
+1229,1229,645-2-959,selesai menonton video talkshow fokus video internet,0,0,0,0,0,0,0,0,0,0,1,0,0
+1230,1230,644-2-0,gejala adhd alami,0,0,1,0,0,0,0,0,0,0,0,0,0
+1231,1231,644-2-122,dhd kondisi darurat anak-anak yang paling besar masih menjadi orang dewasa,0,0,1,0,0,0,0,0,0,0,0,0,1
+1232,1232,644-2-318,Gangguan mental tampaknya mempengaruhi kehidupan akademis alami adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1233,1233,644-2-509,Pemeriksaan psikolog remaja.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1234,1234,643-2-0,Selamat siang Rizqi terima kasih dokter alo,0,0,0,0,0,0,0,1,0,0,0,0,0
+1235,1235,643-2-63,memahami kebingungan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1236,1236,643-2-95,Mengenai penyakit mental Adhd wawancara pemeriksaan langsung pengamatan mendalam dari ahli tes psikologis.,0,0,1,0,0,0,0,0,0,0,0,0,0
+1237,1237,642-2-0,mencoba mencari di Internet untuk gejala addhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1238,1238,642-2-87,adhd attention insertion disorder,0,0,1,0,0,0,0,0,0,0,0,0,0
+1239,1239,642-2-154,Takut akan penjelasan dokter.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1240,1240,642-2-264,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1241,1241,641-2-0,Inti dari saudara yang berbicara secara sadar,0,0,0,0,0,0,0,0,0,0,0,0,0
+1242,1242,641-2-106,Kata orang itu omong kosong.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1243,1243,641-2-213,ya sedikit saja ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya kok ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya,0,0,0,1,0,0,0,0,0,0,0,0,0
+1244,1244,640-2-0,terlepas dari keluhan kehidupan sadar,0,0,0,0,0,0,0,0,0,0,0,0,0
+1245,1245,640-2-146,"Dimana sulit untuk berkonsentrasi, lawan berbicara.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1246,1246,640-2-229,Karena kali ini disebut cemoohan mendengarkan guru belajar cinta untuk belajar internet. buku mudah ditangkap.,0,0,0,0,0,0,0,0,0,0,1,0,0
+1247,1247,640-2-455,Itu tidak penting.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1248,1248,639-2-0,"Halo, doc.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1249,1249,639-2-10,panggilan Rizqi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1250,1250,639-2-35,Remaja menjalani kehidupan normal seolah - olah usia mereka sama,1,1,0,0,0,0,0,0,0,0,0,0,0
+1251,1251,639-2-188,yang paling buruk adalah pelanggarangian kita bahagia yang lain,0,0,0,0,0,0,0,0,0,0,0,0,0
+1252,1252,638-2-0,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1253,1253,637-2-0,"Hindari obat, obat tidur, dorongan dokter.",0,0,0,0,1,0,0,0,0,0,1,0,0
+1254,1254,636-2-0,Jangan makan tidur dalam waktu minimal satu jam,0,0,0,0,1,0,0,0,0,0,0,0,1
+1255,1255,635-2-0,Hindari konsumsi alkohol kopi tidur,0,0,0,0,1,0,0,0,0,0,1,0,1
+1256,1256,634-2-0,tidur siang,0,0,0,0,1,0,0,0,0,0,0,0,0
+1257,1257,633-2-0,Matikan lampu tidur.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1258,1258,632-2-0,Suhu kamar nyaman.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1259,1259,631-2-0,menata kamar tidur yang nyaman,0,0,0,0,1,0,0,0,0,0,0,0,0
+1260,1260,630-2-0,membersihkan tubuh tidur,0,0,0,0,1,0,0,0,0,0,0,0,0
+1261,1261,629-2-0,tiba-tiba saja terjadi serangan coba menolaknya fokuskan usaha evakuasinya,0,0,0,1,1,0,0,0,0,0,0,0,0
+1262,1262,629-2-182,merekomendasikan peningkatan tidur Higene,0,0,0,0,1,0,0,0,0,0,0,0,0
+1263,1263,628-2-0,pikiran yang mengganggu mencoba untuk memberitahu pikiran orang-orang istri-istri mereka membantu menemukan solusi,0,0,0,0,1,0,0,0,0,0,0,0,0
+1264,1264,627-2-0,Cobalah untuk melihat pemicu menambah beban pada keluhan. Cobalah untuk menghindari.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1265,1265,627-2-187,Mendengarkan musik menenangkan relaksasi daat membantu fokus pada kegiatan sehari - hari.,0,0,0,0,1,1,0,0,0,0,0,0,0
+1266,1266,626-2-0,Saran rumah-rumah pemerintah online adalah fitur chat langsung dokter yang mengkhususkan diri dalam aplikasi medis.,0,0,0,0,1,0,0,0,0,0,1,0,0
+1267,1267,625-2-0,"Sebuah keluhan terasa berhubungan dengan sisi psikologis, secara mental disarankan untuk berkonsultasi dengan dokter, terapi evaluasi psikiater.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1268,1268,624-2-0,insomnia,0,0,1,0,0,0,0,0,0,0,0,0,0
+1269,1269,623-2-0,gangguan bipolar,0,0,1,0,0,0,0,0,0,0,0,0,0
+1270,1270,622-2-0,sindrom kaki gelisah,0,0,1,0,0,0,0,0,0,0,0,0,0
+1271,1271,621-2-0,Gangguan panik.,0,0,1,0,0,0,0,0,0,0,0,0,0
+1272,1272,620-2-0,Gangguan kecemasan,0,0,1,0,0,0,0,0,0,0,0,0,0
+1273,1273,619-2-0,add,0,0,1,0,0,0,0,0,0,0,0,0,0
+1274,1274,618-2-0,Membaca gangguan keluhan alami menimbulkan keluhan yang serius tentang kedewasaan,0,0,0,0,0,0,0,0,0,0,0,0,1
+1275,1275,617-2-0,"Halo, Ayah./ Terima kasih./ Ya, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1276,1276,616-2-0,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1277,1277,615-2-0,"Ya, lihat ini.",0,0,0,0,0,0,1,0,0,0,0,0,0
+1278,1278,614-2-0,Minum kopi membuat merokok tidak nyaman merokok menenangkan diri minum alkohol,0,0,0,0,1,1,0,0,0,0,1,0,0
+1279,1279,613-2-0,matilah seperti orang kaya suara kestttvres untuk berpikir,0,0,0,1,0,0,0,0,0,0,1,0,0
+1280,1280,612-2-0,Ingin berteriak Ingin mencium orang,0,0,0,1,0,0,0,0,0,0,0,0,0
+1281,1281,611-2-0,"Kerjaan membosankan, tangan seperti gerbang meteran.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1282,1282,610-2-0,"♪ look at the tree ♪ da-da-da-da-da-da, da-da-da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da, da-da ♪",0,0,0,1,0,0,0,0,0,0,0,0,0
+1283,1283,609-2-0,"Kita bicara, orang-orang suka kehilangan fokus, orang-orang berbicara kaya.",0,0,0,1,0,0,0,0,0,0,0,0,0
+1284,1284,608-2-0,abnormalitas aneh,0,0,0,0,0,0,0,0,0,0,0,0,0
+1285,1285,607-2-0,hey doc thaun merasa aneh tidak tidur nyenyak tidur tenang kok kok kok kok kok kok kok sebentar lagi tidak kok pria tidak bisa tidur,0,1,0,1,0,1,0,1,0,0,0,0,1
+1286,1286,607-2-517,kalau tidak percaya percaya percaya saja kepala yang dingin kepala kalau malam tidak bisa tidur kalau malam tidak bisa tidur kalau malam tidak bisa tidur kalau malam tidak bisa tidur kalau malam kalau malam tidak bisa tidur,0,0,0,0,0,1,0,0,0,0,0,0,0
+1287,1287,606-2-0,Sangat mudah bagi orang tua untuk belajar di masa depan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1288,1288,606-2-75,"Sadarilah perkembangan teknologi ilmiah anak itu, lebih mudah daripada orang tua yang berupaya keras meningkatkan keterbatasan.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1289,1289,606-2-313,mengabaikan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1290,1290,606-2-418,Upaya - upaya selama ini sangat berterima kasih.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1291,1291,606-2-511,empati tentang sensitivitas seorang anak adalah tetap bingung percayalah puluhan kali bingung membutuhkan bantuan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1292,1292,606-2-738,"Nah, mari kita berharap begitu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+1293,1293,605-2-0,Saran saya adalah untuk memeriksa anak-anak klinik anak-anak berkembang.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1294,1294,605-2-91,memiliki bingung memiliki akses ke nasional biaya keamanan cek untuk puskemas terdekat,0,0,0,0,0,0,0,0,0,0,0,0,0
+1295,1295,605-2-251,Mengenai gangguan perkembangan otak yang dipicu oleh paparan kehamilan terhadap konsumsi obat-obatan yang aman kehamilan gangguan aliran darah ari paparan terhadap radiasi radiasi tumor cedera genetik mengembangkan gangguan otak,0,0,0,0,0,0,0,0,1,0,0,0,0
+1296,1296,605-2-643,set handle check langsung untuk anak-anak,0,0,0,0,0,0,0,0,0,0,0,0,0
+1297,1297,604-2-0,Sebuah obat penenang. solusi seorang anak berbahaya.,0,0,0,0,1,0,0,0,0,0,1,0,0
+1298,1298,604-2-152,kondisi dari berbicara tua sakit berbicara tua menyakiti gejala histeris dari kondisi medis yang dirawat berdasarkan penyebab,0,1,0,1,0,0,0,0,0,1,0,0,0
+1299,1299,604-2-390,memahami ditambah lelah berurusan dengan seorang anak berpikir obat penenang memecahkan jawaban,0,0,0,0,0,0,0,0,0,0,1,0,0
+1300,1300,604-2-622,berbahaya untuk membuatnya tetap tenang obatnya sudah hilang seumur hidupnya.,0,0,0,0,0,1,0,0,0,0,0,0,1
+1301,1301,604-2-894,Sudah terlambat perkembangan anak-anak dikendalikan terlambat mekar.,0,1,0,0,0,0,0,0,0,0,0,0,0
+1302,1302,604-2-1153,Sudah terlambat.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1303,1303,603-2-0,Tanda-tanda dari sebuah penyakit.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1304,1304,603-2-73,"Misalnya, perhatikan gejala keracunan makanan, mual, mual, diare.",0,0,1,1,0,0,0,0,0,0,0,0,0
+1305,1305,603-2-167,"Gejala dari gejala dokter dari kondisi keracunan makanan yang sah, dokter mendiagnosa keracunan makanan yang salah.",0,0,1,1,0,0,0,0,0,0,0,0,0
+1306,1306,603-2-416,Tanda-tanda penyakit.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1307,1307,603-2-507,Dokter mengobati gejala penyakit,0,0,0,0,0,0,0,0,0,0,0,0,0
+1308,1308,602-2-0,"Selamat pagi./ Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1309,1309,602-2-56,Tolong tunda pemeriksaan anaknya.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1310,1310,302-2-0,The dock boy of the age walks talking day and night crying,1,1,0,1,0,0,0,0,0,0,0,0,1
+1311,1311,302-2-104,Menangis itu histeris menyakitimu membuat perutmu kembung.,0,0,1,1,0,0,0,0,0,0,0,0,0
+1312,1312,302-2-200,Tolong perbaiki obat penenang tidurnya.,0,0,0,0,0,0,0,0,0,0,1,0,0
+1313,1313,302-2-265,Terima kasih. / Kata nasihat.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1314,1314,301-2-0,"Nah, mari kita berharap itu membantu.",0,0,0,0,0,0,0,0,0,0,0,1,0
+1315,1315,300-2-0,keterangan adhd anak di atas artikel,0,0,1,0,0,0,0,0,0,0,1,0,0
+1316,1316,299-2-0,memahami kebutuhan khusus dari anak laki-laki baiknya adhd sekolah dalam kebutuhan khusus anak-anak belajar bantuan khusus,0,0,1,0,0,0,0,0,0,0,0,0,0
+1317,1317,298-2-0,anak-anak adhd seperti kegiatan autis cenderung menyukai kegiatan terorganisir,0,0,1,0,0,1,0,0,0,0,0,0,1
+1318,1318,297-2-0,Anak-anak Adhd cenderung berbicara. berhenti. itu berbeda daripada ketika anak autis memiliki waktu yang sulit mengekspresikan ide-ide mereka.,0,0,1,0,0,1,0,0,0,0,0,0,0
+1319,1319,296-2-0,adhd anak-anak cenderung fokus pada pemahaman stabilitas anak autis cenderung untuk fokus pada orang-orang seperti mereka,0,0,1,0,0,1,0,0,0,0,0,0,0
+1320,1320,295-2-0,adhd autis berbeda,0,0,1,0,0,0,0,0,0,0,0,0,0
+1321,1321,294-2-0,Perhatian Adhd cacat hiperaktivitas gangguan perilaku ditandai kurangnya perhatian hiperaktif menyenangkan tindakan impulsif pikir up,0,0,1,1,0,0,0,0,0,0,0,0,0
+1322,1322,293-2-0,"Halo, Hilly./ Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1323,1323,292-2-0,adhd salah bentuk melata autis,0,0,1,0,0,0,1,0,0,0,0,0,0
+1324,1324,292-2-49,ayah yang tidak berguna sekolah khusus,0,0,1,0,0,0,1,0,0,0,0,0,0
+1325,1325,291-2-0,Kuharap itu sepadan.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1326,1326,290-2-3,"Saudara - saudari memaksimalkan belajar bermain, sehingga para saudari mengutamakan konsep belajar kegiatan fisik.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1327,1327,289-2-3,Batasi adikmu untuk menonton TV bermain telepon.,0,0,0,0,1,0,0,0,0,0,1,0,0
+1328,1328,288-2-3,"Jadwalkan jadwal saudara, beri dia waktu istirahat.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1329,1329,287-2-3,"Saudaraku, makanan sehat adalah bergizi.",0,0,0,0,1,0,0,0,0,0,1,0,0
+1330,1330,286-2-3,"Baiklah, baiklah, saudara.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1331,1331,285-2-0,Lingkungan rumah membantu sang saudari melewati tahap belajar,0,0,0,0,1,0,0,0,0,0,0,0,0
+1332,1332,285-2-115,meliputi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1333,1333,284-2-0,Adhd kondisi sembuh sempurna,0,0,1,0,0,0,0,0,0,0,0,0,0
+1334,1334,284-2-53,Perawatan ini membebaskan para penderita dari kehidupan normal,0,0,0,0,1,1,0,0,0,0,0,0,0
+1335,1335,284-2-152,Obat psikoterapi.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1336,1336,284-2-224,berkonsultasi dengan spesialis kejiwaan biasa.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1337,1337,284-2-305,Suster apos; s obat teratur sesuai dengan saran dokter,0,0,0,0,1,0,0,0,0,0,0,0,0
+1338,1338,284-2-370,Lupa untuk membawa Anda dengan adikmu ke psikoterapi.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1339,1339,284-2-442,Petunjuk dokter terhadap anak adhd.,0,0,1,0,1,0,0,0,0,0,0,0,0
+1340,1340,283-2-0,perhatian defisit gangguan hiperaktivitas adhd adalah gangguan yang ditandai anak-anak sulit untuk fokus pada memiliki perilaku impulsif hiperaktif,0,0,1,1,0,0,0,0,0,0,0,0,0
+1341,1341,283-2-164,"Sepertinya hubungan sosial anak-anak, prestasi seorang anak sekolahan.",0,0,0,0,0,1,0,0,0,0,0,0,0
+1342,1342,283-2-237,Penyebab utama Adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1343,1343,283-2-287,kondisi yang diduga dipengaruhi oleh faktor genetik lingkungan terkait dengan pola gangguan aliran listrik otak,0,0,0,0,0,0,0,0,1,0,0,0,0
+1344,1344,283-2-424,Gejala Adhd terjadi pada mereka.,0,0,1,0,0,0,0,0,0,0,0,0,1
+1345,1345,282-2-0,"Terima kasih, Dr. Com.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1346,1346,281-2-0,Pada malam adik Doc didiagnosis usia adhd di bawah konsentrasi belajar,1,1,1,0,0,1,0,1,0,0,0,0,0
+1347,1347,281-2-134,Kata-kata belajar lebih sedikit dok,0,0,0,0,0,1,0,0,0,0,0,0,0
+1348,1348,281-2-177,Mengambil suplemen otak adalah efek yang signifikan.,0,0,0,0,1,0,0,0,0,0,0,0,1
+1349,1349,281-2-279,Anak adhd fokus pada menyerap pelajaran,0,0,0,0,0,0,1,0,0,0,0,0,0
+1350,1350,281-2-356,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1351,1351,280-2-0,Salam.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1352,1352,279-2-0,Mari kita berharap informasi membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1353,1353,278-2-0,memuji proses anak praktek penanganan diskullia,0,0,1,0,1,0,0,0,0,0,0,0,0
+1354,1354,277-2-0,memfasilitasi perangkat jumlah anak yang memadai kalkulator buku grafik menulis alat atau gadget memiliki aplikasi permainan matematika,0,0,0,0,1,0,0,0,0,0,1,0,0
+1355,1355,276-2-0,mengkomunikasikan guru sekolah anak adalah pengalaman seorang anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+1356,1356,275-2-0,bantuan profesional psikolog profesional okupasi membantu anak-anak dalam aspek,0,0,0,0,1,0,0,0,0,0,0,0,0
+1357,1357,274-2-0,bimbingan profesional anak-anak yang berpengalaman membantu memiliki teratur gangguan anak-syellculiats,0,0,1,0,1,0,0,0,0,0,0,0,1
+1358,1358,273-2-0,Mari kita lakukan ini untuk membantu anak-anak belajar menghitung.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1359,1359,272-2-0,penanganan anak discylculian membutuhkan langkah mudah dalam membutuhkan kerja sama anak orang tua profesional terapis Okupation,1,0,1,0,0,0,0,0,0,0,0,0,0
+1360,1360,272-2-187,"Pertama - tama, berkonsultasilah dengan psikiater anak untuk menyingkirkan gangguan adhd disleksia memicu kondisi ketidaksesuaian",0,0,1,0,1,0,0,0,0,0,0,0,0
+1361,1361,272-2-395,"Mari kita ubah pembelajaran anak-anak, terbiasalah bermain permainan matematika, suruh anak-anak berlatih menghitung, bukan anak-anak.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1362,1362,271-2-0,Kondisi Disklculia sulit untuk menghitung fungsi aritmetik,0,0,1,1,0,0,0,0,0,0,0,0,0
+1363,1363,271-2-101,ukuran memahami matematika dasar kali memahami grafik menghitung kembali nomor telepon pasca kode membaca jam,0,0,0,1,0,0,0,0,0,0,0,0,0
+1364,1364,271-2-390,kondisi terkait gangguan psikis adhd dyslexia menanganinya mengingat kondisi,0,0,1,0,0,0,0,0,0,0,0,0,0
+1365,1365,270-2-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1366,1366,269-2-0,halo kaleng,0,0,0,0,0,0,0,1,0,0,0,0,0
+1367,1367,268-2-0,"Tolong jelaskan, Dok./ Terima kasih.",0,0,0,0,0,0,0,0,0,0,0,1,0
+1368,1368,267-2-0,Kau mau pergi kemana?,0,0,0,0,0,0,1,0,0,0,0,0,0
+1369,1369,266-2-0,pengobatan bagi penderita disconcullia,0,0,1,0,0,0,1,0,0,0,1,0,0
+1370,1370,265-2-0,"Lakukan, Nak.",0,0,0,0,0,0,1,0,0,0,0,0,0
+1371,1371,264-2-0,"Apologetic, maafkan aku, maafkan aku.",1,1,1,0,0,0,0,1,0,0,0,0,0
+1372,1372,263-2-0,Salam.,0,0,0,0,0,0,0,1,0,0,0,1,0
+1373,1373,262-2-0,Mari kita berharap informasi membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1374,1374,261-2-0,mengendalikan stres,0,0,0,0,1,0,0,0,0,0,0,0,0
+1375,1375,260-2-0,latihan rutin x minggu,0,0,0,0,1,0,0,0,0,0,0,0,1
+1376,1376,259-2-0,Merokok alkohol.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1377,1377,258-2-0,Minum cairan liter air,0,0,0,0,1,0,0,0,0,0,1,0,0
+1378,1378,257-2-0,Makan makanan sehat dengan antioksidan mengurangi lemak jenuh,0,0,0,0,1,0,0,0,0,0,0,0,0
+1379,1379,256-2-0,Hidup dengan gaya hidup yang sehat meningkatkan keterampilan konsentrasi kognitif,0,0,0,0,1,0,0,0,0,0,0,0,0
+1380,1380,255-2-0,Memiliki hobi.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1381,1381,254-2-0,Anjuran lakukan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1382,1382,253-2-0,penanganan kondisi sederhana,0,0,0,0,0,0,0,0,0,0,0,0,0
+1383,1383,253-2-39,Diagnosa psikiater komprehensif pendekatan multidisplin melibatkan dokter mental yang spesialis dalam rehabilitasi mental psikolog perilaku perilaku dengan terapi sosial.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1384,1384,253-2-287,Diagnosa diri dari konsultan profesional psikiater mengevaluasi rencana lengkap di depan psikoterapi perilaku obat diperlukan untuk menjalani kehidupan normal yang sukses.,0,0,0,0,1,1,0,0,0,0,0,0,0
+1385,1385,252-2-0,adhd defisit orattention gangguan hiperaktivitas kondisi menderita gangguan perhatian bersama dengan hiperaktif impulsitis usia SMA dewasa menetap,0,0,1,1,0,1,0,0,0,0,0,0,1
+1386,1386,252-2-321,Resimentasi kriteria penyaringan kondisi diagnosis mengacu ke dsm v diagnostik dan static manual v handbooks terkait dengan gangguan mental,0,0,0,0,0,0,0,0,1,0,0,0,0
+1387,1387,252-2-517,faktor genetik dalam pola asuh terhadap gadget sejarah gaya hidup gangguan mental,0,0,0,0,0,0,0,0,1,0,0,0,0
+1388,1388,251-2-0,"Terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1389,1389,250-2-0,Halo.,0,0,0,0,0,0,0,1,0,0,0,0,0
+1390,1390,249-2-0,"Terima kasih, dok.",0,0,0,0,0,0,0,0,0,0,0,1,0
+1391,1391,248-2-0,nonmeds menyembuhkan penyakit,0,0,0,0,0,0,1,0,0,0,0,0,0
+1392,1392,248-2-58,Penyakit depresi kecemasan,0,0,0,0,0,0,1,0,1,0,0,0,0
+1393,1393,248-2-133,Orang-orang telah berhasil dalam karir mereka.,0,0,1,0,0,0,1,0,0,0,0,0,0
+1394,1394,247-2-0,Tidak baik untuk lulus kuliah mengubah karir mencoba untuk belajar untuk mendapatkan keterampilan ke dalam proses apapun untuk pergi ke perguruan tinggi.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1395,1395,247-2-396,aku sudah mencoba untuk membaca mencari ciri-ciri dari sindrom palsu alami adhd sejak kemarin bermain diagnostik.,0,0,1,0,0,0,0,0,0,0,0,0,1
+1396,1396,246-2-0,Dan sulit untuk fokus itu adalah tugas kadang-kadang kursi tugas duduk.,0,0,0,1,0,0,0,0,0,0,1,0,1
+1397,1397,246-2-402,"Alih-alih fokus pada jam kerja, fokuslah pada tugas kedai kopi.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1398,1398,245-2-0,"Selamat malam, dok.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1399,1399,108-2-0,Adhd pengobatan obat psikoterapi.,0,0,1,0,1,0,0,0,0,0,1,0,0
+1400,1400,108-2-77,"Terapi psikoterapi dari tujuh terapi perilaku mengajarkan fokus pada duduk, pelatihan untuk berdiri.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1401,1401,108-2-222,psikodied sosial interaksi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1402,1402,108-2-256,Penangan memiliki fase terapi,0,0,0,0,0,0,0,0,0,0,0,0,0
+1403,1403,108-2-349,mengajar anak-anak untuk melewati fase-fase,0,0,0,0,0,0,0,0,0,0,0,0,0
+1404,1404,108-2-430,Terapi keluarga diajarkan untuk berlatih di rumah.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1405,1405,108-2-535,Anak - anak telepon diundang untuk duduk - duduk dan melatih fokus mereka.,0,0,0,0,0,0,0,0,0,0,1,0,0
+1406,1406,108-2-718,Sulit untuk berkonsultasi dengan pelatihan anak di rumah.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1407,1407,108-2-807,Tujuan dari pelatihan diam perhatian anak mudah teralihkan.,0,0,0,0,0,1,0,0,0,0,0,0,0
+1408,1408,108-2-887,Semoga membantu.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1409,1409,100-2-0,Gangguan mental Adhd menyerang anak-anak yang menyebabkan anak-anak sulit berkonsentrasi pada fokus perilaku hiperaktif.,0,0,1,0,0,1,0,0,1,0,0,0,0
+1410,1410,100-2-208,"Adhd menyebabkan faktor genetik, kelainan otak kehamilan kehamilan kehamilan yang terkena asam rokok, obat-obatan yang terkena toksisitas.",0,0,0,0,0,0,0,0,1,0,0,0,0
+1411,1411,100-2-459,"Mengdiagnosa berdasarkan wawancara yang mendalam, pemeriksaan fisik yang berhubungan dengan pola perilaku, dukungan dokter kejiwaan.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1412,1412,99-2-0,"Anaknya Faldy, terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1413,1413,98-2-0,anak-anak memiliki adhd bicara sulit untuk fokus pada mengikuti terapi perbaikan yang signifikan mengikuti saran dokter spesialis makanan manis mengajar anak-anak fokus,1,1,1,1,1,1,1,0,0,0,0,0,1
+1414,1414,92-2-0,Semoga membantu./ Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1415,1415,91-2-0,Terapi kondisi anak segera diperiksa dokter anak,0,0,0,0,1,0,0,0,0,0,0,0,0
+1416,1416,91-2-116,Pemeriksaan cepat terapi anak hidup,0,0,0,0,0,1,0,0,0,0,0,0,0
+1417,1417,90-2-0,Prognosis keponakan telah adhd pemeriksaan dokter anak,0,0,1,0,1,0,0,0,0,0,0,0,0
+1418,1418,90-2-122,Dokter memeriksa kondisi fisik pemeriksaan fisik keponakan itu.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1419,1419,90-2-250,Periksa untuk membedakan autisme penyakit dengan penyakit,0,0,1,0,0,0,0,0,0,0,0,0,0
+1420,1420,88-2-0,fokus,0,0,0,1,0,0,0,0,0,0,0,0,0
+1421,1421,87-2-0,hiperaktif,0,0,0,1,0,0,0,0,0,0,0,0,0
+1422,1422,86-2-0,Sulit untuk berkonsentrasi.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1423,1423,85-2-0,Sulit untuk fokus.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1424,1424,84-2-0,gejala - gejala anak - anak yang menderita adhd,0,0,1,0,0,0,0,0,0,0,0,0,0
+1425,1425,83-2-0,"Anak-anak sulit berkonsentrasi pada pembicaraan, mengalami kesulitan menerima pelajaran aktif karena gangguan perilaku hiperaktif.",0,0,1,1,0,0,0,0,1,0,0,0,0
+1426,1426,80-2-0,Cobalah untuk membantu.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1427,1427,78-2-0,"Halo, Tri./ Terima kasih, dokter.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1428,1428,40-2-0,Selamat pagi dokter keponakan usia,1,1,0,0,0,0,0,1,0,0,0,0,0
+1429,1429,40-2-66,tumbuh keluarga keras. secara fisik verbal.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1430,1430,40-2-126,Menjadi rewel mendapat hit keras.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1431,1431,40-2-181,"Telepon rewel, tenang, kecanduan ponsel anak yang berbeda.",0,0,0,0,0,0,0,0,0,0,1,0,0
+1432,1432,40-2-307,Sulit untuk berkonsentrasi. sulit untuk mencerna pelajaran aktif. sulit untuk duduk sebagai keluarga.,0,0,0,1,0,0,0,0,0,0,0,0,0
+1433,1433,40-2-509,Googleling sifat autis anak pada waktu yang tepat,0,0,0,0,0,0,0,0,0,0,0,0,0
+1434,1434,40-2-571,Sendirian berbaur dengan teman-temannya tampaknya seperti kondisi anak normal adalah pengalaman keponakan.,0,0,0,1,0,0,1,0,0,0,0,0,0
+1435,1435,40-2-744,tetap,0,0,0,0,0,0,1,0,0,0,0,0,0
+1436,1436,40-2-775,nan,0,0,0,0,0,0,1,0,0,0,0,0,0
+1437,1437,40-2-795,Dibawa oleh spesialis dalam perawatan anak biaya banyak uang.,0,0,0,0,0,0,1,0,0,0,0,0,0
+1438,1438,40-2-874,Terima kasih.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1439,1439,32-2-0,Semoga itu membantu./ Ya.,0,0,0,0,0,0,0,0,0,0,0,1,0
+1440,1440,31-2-0,memarahi anak itu dengan lembut memanjakan dengan keibaan hati,0,0,0,0,1,0,0,0,0,0,0,0,0
+1441,1441,30-2-0,Bacakan anak itu cerita yang menarik.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1442,1442,30-2-65,"Mengerti, coba ganti baju, ceritakan tentang buku itu.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1443,1443,30-2-140,# Play guess # # Toys of the brain #,0,0,0,0,1,0,0,0,0,0,0,0,0
+1444,1444,27-2-0,Mainan anak di usianya,0,0,0,0,1,0,0,0,0,0,0,0,0
+1445,1445,26-2-0,"Berbicaralah dengan pikirannya, penonton untuknya, melatih untuk berinteraksi dengan saudara kembarnya.",0,0,0,0,1,0,0,0,0,0,0,0,0
+1446,1446,22-2-0,Dengan bermain anak adalah kiri untuk bermain,0,0,0,0,1,0,0,0,0,0,0,0,0
+1447,1447,18-2-0,"Halo, terima kasih, pertanyaan.",0,0,0,0,0,0,0,1,0,0,0,0,0
+1448,1448,17-2-0,TV gadget boy berhenti,0,0,0,0,1,0,0,0,0,0,0,0,0
+1449,1449,16-2-0,"Lakukan saja, pak tua.",0,0,0,0,0,0,0,0,0,0,0,0,0
+1450,1450,15-2-0,Masa sulit seorang anak berbicara sulit untuk berfokus pada variasi normal perkembangan stimulasi minimal,1,1,0,1,0,0,0,0,1,0,0,0,0
+1451,1451,15-2-211,Anak-anak terlambat berbicara karena gangguan otak.,0,0,1,0,0,0,0,0,1,0,0,0,0
+1452,1452,15-2-453,Memeriksa seorang anak secara pribadi sulit untuk menimbulkan keluhan.,0,0,0,0,0,0,0,0,0,0,0,0,0
+1453,1453,15-2-558,Pemeriksaan anak seorang dokter dinyatakan telah dirangkumisasi sendiri.,0,0,0,0,1,0,0,0,0,0,0,0,0
+1454,1454,15-2-735,ini salah periksa dokter anak itu sub-spesifik tumbuh dewasa,0,0,0,0,1,0,0,0,0,0,0,0,0
+1455,1455,9-2-0,Usia normal dikendalikan oleh seorang anak.,1,1,0,0,0,0,0,0,0,0,0,0,0
+1456,1456,9-2-196,Usia anak laki-laki menyatukan kata-kata yang dapat dimengerti orang.,1,0,0,0,0,1,0,0,0,0,0,0,0
+1457,1457,9-2-331,Memiliki keterampilan menarik bercerita kepada orang-orang.,0,0,0,0,0,1,0,0,0,0,0,0,0
+1458,1458,6-2-0,"Hallo-dok kembar laki-laki-tahun. Ucapkan bahasa anak-anak-usia-bahasa, gunakan stimulasi. Jauhkan gadget dari gadget.",1,1,0,1,1,0,0,1,0,0,1,1,0
