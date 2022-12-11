@@ -1,0 +1,7 @@
+conda install -c conda-forge scipy numpy pandas matplotlib jupyter jupyterlab scikit-learn ipython ipykernel ipywidgets mamba
+
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+
+pip install nlpaug
+
+pip install transformers sentencepiece
