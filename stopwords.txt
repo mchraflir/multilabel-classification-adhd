@@ -139,6 +139,8 @@ dahulu
 dalam
 dan
 dapat
+da
+da da
 dari
 daripada
 datang
@@ -251,6 +253,7 @@ hendak
 hendaklah
 hendaknya
 hingga
+iya
 ia
 ialah
 ibarat
@@ -752,6 +755,7 @@ waktunya
 walau
 walaupun
 wong
+ya
 yaitu
 yakin
 yakni
